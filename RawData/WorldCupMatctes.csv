@@ -1,0 +1,965 @@
+﻿Year,ID,Stage,Home Team,Home Goals,Away Goals,Away Team,Year,Month,Day,Host Team,draw,lose ,Loser,win,Winner,Win Conditions,total goals
+1930,1,Group stage,France,4,1,Mexico,1930,July,13,false,"",Mexico,Mexico,France,France,Actual Time,5
+1930,2,Group stage,United States,3,0,Belgium,1930,July,13,false,"",Belgium,Belgium,United States,United States,Actual Time,3
+1930,3,Group stage,Yugoslavia,2,1,Brazil,1930,July,14,false,"",Brazil,Brazil,Yugoslavia,Yugoslavia,Actual Time,3
+1930,4,Group stage,Romania,3,1,Peru,1930,July,14,false,"",Peru,Peru,Romania,Romania,Actual Time,4
+1930,5,Group stage,Argentina,1,0,France,1930,July,15,false,"",France,France,Argentina,Argentina,Actual Time,1
+1930,6,Group stage,Chile,3,0,Mexico,1930,July,16,false,"",Mexico,Mexico,Chile,Chile,Actual Time,3
+1930,7,Group stage,Yugoslavia,4,0,Bolivia,1930,July,17,false,"",Bolivia,Bolivia,Yugoslavia,Yugoslavia,Actual Time,4
+1930,8,Group stage,United States,3,0,Paraguay,1930,July,17,false,"",Paraguay,Paraguay,United States,United States,Actual Time,3
+1930,9,Group stage,Uruguay,1,0,Peru,1930,July,18,true,"",Peru,Peru,Uruguay,Uruguay,Actual Time,1
+1930,10,Group stage,Chile,1,0,France,1930,July,19,false,"",France,France,Chile,Chile,Actual Time,1
+1930,11,Group stage,Argentina,6,3,Mexico,1930,July,19,false,"",Mexico,Mexico,Argentina,Argentina,Actual Time,9
+1930,12,Group stage,Brazil,4,0,Bolivia,1930,July,20,false,"",Bolivia,Bolivia,Brazil,Brazil,Actual Time,4
+1930,13,Group stage,Paraguay,1,0,Belgium,1930,July,20,false,"",Belgium,Belgium,Paraguay,Paraguay,Actual Time,1
+1930,14,Group stage,Uruguay,4,0,Romania,1930,July,21,true,"",Romania,Romania,Uruguay,Uruguay,Actual Time,4
+1930,15,Group stage,Argentina,3,1,Chile,1930,July,22,false,"",Chile,Chile,Argentina,Argentina,Actual Time,4
+1930,16,Semi-finals,Argentina,6,1,United States,1930,July,26,false,"",United States,United States,Argentina,Argentina,Actual Time,7
+1930,17,Semi-finals,Uruguay,6,1,Yugoslavia,1930,July,27,true,"",Yugoslavia,Yugoslavia,Uruguay,Uruguay,Actual Time,7
+1930,18,Final,Uruguay,4,2,Argentina,1930,July,30,true,"",Argentina,Argentina,Uruguay,Uruguay,Actual Time,6
+1934,19,Round of 16,Austria,3,2,France,1934,May,27,false,"",France,France,Austria,Austria,Extra time,5
+1934,20,Round of 16,Hungary,4,2,Egypt,1934,May,27,false,"",Egypt,Egypt,Hungary,Hungary,Actual Time,6
+1934,21,Round of 16,Switzerland,3,2,Netherlands,1934,May,27,false,"",Netherlands,Netherlands,Switzerland,Switzerland,Actual Time,5
+1934,22,Round of 16,Sweden,3,2,Argentina,1934,May,27,false,"",Argentina,Argentina,Sweden,Sweden,Actual Time,5
+1934,23,Round of 16,Germany,5,2,Belgium,1934,May,27,false,"",Belgium,Belgium,Germany,Germany,Actual Time,7
+1934,24,Round of 16,Spain,3,1,Brazil,1934,May,27,false,"",Brazil,Brazil,Spain,Spain,Actual Time,4
+1934,25,Round of 16,Italy,7,1,United States,1934,May,27,true,"",United States,United States,Italy,Italy,Actual Time,8
+1934,26,Round of 16,Czechoslovakia,2,1,Romania,1934,May,27,false,"",Romania,Romania,Czechoslovakia,Czechoslovakia,Actual Time,3
+1934,27,Quarter-finals,Czechoslovakia,3,2,Switzerland,1934,May,31,false,"",Switzerland,Switzerland,Czechoslovakia,Czechoslovakia,Actual Time,5
+1934,28,Quarter-finals,Germany,2,1,Sweden,1934,May,31,false,"",Sweden,Sweden,Germany,Germany,Actual Time,3
+1934,29,Quarter-finals,Italy,1,1,Spain,1934,May,31,true,draw,"",Draw,"",Draw,Actual Time,2
+1934,30,Quarter-finals,Austria,2,1,Hungary,1934,May,31,false,"",Hungary,Hungary,Austria,Austria,Actual Time,3
+1934,31,Quarter-finals,Italy,1,0,Spain,1934,June,1,true,"",Spain,Spain,Italy,Italy,Actual Time,1
+1934,32,Semi-finals,Italy,1,0,Austria,1934,June,3,true,"",Austria,Austria,Italy,Italy,Actual Time,1
+1934,33,Semi-finals,Czechoslovakia,3,1,Germany,1934,June,3,false,"",Germany,Germany,Czechoslovakia,Czechoslovakia,Actual Time,4
+1934,34,Third place,Germany,3,2,Austria,1934,June,7,false,"",Austria,Austria,Germany,Germany,Actual Time,5
+1934,35,Final,Italy,2,1,Czechoslovakia,1934,June,10,true,"",Czechoslovakia,Czechoslovakia,Italy,Italy,Extra time,3
+1938,36,Round of 16,Switzerland,1,1,Germany,1938,June,4,false,draw,"",Draw,"",Draw,Actual Time,2
+1938,37,Round of 16,Hungary,6,0,Indonesia,1938,June,5,false,"",Indonesia,Indonesia,Hungary,Hungary,Actual Time,6
+1938,38,Round of 16,France,3,1,Belgium,1938,June,5,true,"",Belgium,Belgium,France,France,Actual Time,4
+1938,39,Round of 16,Cuba,3,3,Romania,1938,June,5,false,draw,"",Draw,"",Draw,Actual Time,6
+1938,40,Round of 16,Italy,2,1,Norway,1938,June,5,false,"",Norway,Norway,Italy,Italy,Extra time,3
+1938,41,Round of 16,Brazil,6,5,Poland,1938,June,5,false,"",Poland,Poland,Brazil,Brazil,Extra time,11
+1938,42,Round of 16,Czechoslovakia,3,0,Netherlands,1938,June,5,false,"",Netherlands,Netherlands,Czechoslovakia,Czechoslovakia,Extra time,3
+1938,43,Round of 16,Cuba,2,1,Romania,1938,June,9,false,"",Romania,Romania,Cuba,Cuba,Actual Time,3
+1938,44,Round of 16,Switzerland,4,2,Germany,1938,June,9,false,"",Germany,Germany,Switzerland,Switzerland,Actual Time,6
+1938,45,Quarter-finals,Brazil,1,1,Czechoslovakia,1938,June,12,false,draw,"",Draw,"",Draw,Actual Time,2
+1938,46,Quarter-finals,Hungary,2,0,Switzerland,1938,June,12,false,"",Switzerland,Switzerland,Hungary,Hungary,Actual Time,2
+1938,47,Quarter-finals,Sweden,8,0,Cuba,1938,June,12,false,"",Cuba,Cuba,Sweden,Sweden,Actual Time,8
+1938,48,Quarter-finals,France,1,3,Italy,1938,June,12,true,"",France,France,Italy,Italy,Actual Time,4
+1938,49,Quarter-finals,Brazil,2,1,Czechoslovakia,1938,June,14,false,"",Czechoslovakia,Czechoslovakia,Brazil,Brazil,Actual Time,3
+1938,50,Semi-finals,Hungary,5,1,Sweden,1938,June,16,false,"",Sweden,Sweden,Hungary,Hungary,Actual Time,6
+1938,51,Semi-finals,Italy,2,1,Brazil,1938,June,16,false,"",Brazil,Brazil,Italy,Italy,Actual Time,3
+1938,52,Third place,Brazil,4,2,Sweden,1938,June,19,false,"",Sweden,Sweden,Brazil,Brazil,Actual Time,6
+1938,53,Final,Italy,4,2,Hungary,1938,June,19,false,"",Hungary,Hungary,Italy,Italy,Actual Time,6
+1950,54,First round,Brazil,4,0,Mexico,1950,June,24,true,"",Mexico,Mexico,Brazil,Brazil,Actual Time,4
+1950,55,First round,England,2,0,Chile,1950,June,25,false,"",Chile,Chile,England,England,Actual Time,2
+1950,56,First round,Spain,3,1,United States,1950,June,25,false,"",United States,United States,Spain,Spain,Actual Time,4
+1950,57,First round,Sweden,3,2,Italy,1950,June,25,false,"",Italy,Italy,Sweden,Sweden,Actual Time,5
+1950,58,First round,Yugoslavia,3,0,Switzerland,1950,June,25,false,"",Switzerland,Switzerland,Yugoslavia,Yugoslavia,Actual Time,3
+1950,59,First round,Brazil,2,2,Switzerland,1950,June,28,true,draw,"",Draw,"",Draw,Actual Time,4
+1950,60,First round,Yugoslavia,4,1,Mexico,1950,June,28,false,"",Mexico,Mexico,Yugoslavia,Yugoslavia,Actual Time,5
+1950,61,First round,Spain,2,0,Chile,1950,June,29,false,"",Chile,Chile,Spain,Spain,Actual Time,2
+1950,62,First round,United States,1,0,England,1950,June,29,false,"",England,England,United States,United States,Actual Time,1
+1950,63,First round,Sweden,2,2,Paraguay,1950,June,29,false,draw,"",Draw,"",Draw,Actual Time,4
+1950,64,First round,Brazil,2,0,Yugoslavia,1950,July,1,true,"",Yugoslavia,Yugoslavia,Brazil,Brazil,Actual Time,2
+1950,65,First round,Spain,1,0,England,1950,July,2,false,"",England,England,Spain,Spain,Actual Time,1
+1950,66,First round,Italy,2,0,Paraguay,1950,July,2,false,"",Paraguay,Paraguay,Italy,Italy,Actual Time,2
+1950,67,First round,Uruguay,8,0,Bolivia,1950,July,2,false,"",Bolivia,Bolivia,Uruguay,Uruguay,Actual Time,8
+1950,68,First round,Chile,5,2,United States,1950,July,2,false,"",United States,United States,Chile,Chile,Actual Time,7
+1950,69,First round,Switzerland,2,1,Mexico,1950,July,2,false,"",Mexico,Mexico,Switzerland,Switzerland,Actual Time,3
+1950,70,Final round,Uruguay,2,2,Spain,1950,July,9,false,draw,"",Draw,"",Draw,Actual Time,4
+1950,71,Final round,Brazil,7,1,Sweden,1950,July,9,true,"",Sweden,Sweden,Brazil,Brazil,Actual Time,8
+1950,72,Final round,Brazil,6,1,Spain,1950,July,13,true,"",Spain,Spain,Brazil,Brazil,Actual Time,7
+1950,73,Final round,Uruguay,3,2,Sweden,1950,July,13,false,"",Sweden,Sweden,Uruguay,Uruguay,Actual Time,5
+1950,74,Final round,Sweden,3,1,Spain,1950,July,16,false,"",Spain,Spain,Sweden,Sweden,Actual Time,4
+1950,75,Final,Uruguay,2,1,Brazil,1950,July,16,true,"",Brazil,Brazil,Uruguay,Uruguay,Actual Time,3
+1954,76,Group stage,Uruguay,2,0,Czechoslovakia,1954,June,16,false,"",Czechoslovakia,Czechoslovakia,Uruguay,Uruguay,Actual Time,2
+1954,77,Group stage,Austria,1,0,Scotland,1954,June,16,false,"",Scotland,Scotland,Austria,Austria,Actual Time,1
+1954,78,Group stage,Brazil,5,0,Mexico,1954,June,16,false,"",Mexico,Mexico,Brazil,Brazil,Actual Time,5
+1954,79,Group stage,Yugoslavia,1,0,France,1954,June,16,false,"",France,France,Yugoslavia,Yugoslavia,Actual Time,1
+1954,80,Group stage,Switzerland,2,1,Italy,1954,June,17,true,"",Italy,Italy,Switzerland,Switzerland,Actual Time,3
+1954,81,Group stage,Germany,4,1,Turkey,1954,June,17,false,"",Turkey,Turkey,Germany,Germany,Actual Time,5
+1954,82,Group stage,Hungary,9,0,South Korea,1954,June,17,false,"",South Korea,South Korea,Hungary,Hungary,Actual Time,9
+1954,83,Group stage,England,4,4,Belgium,1954,June,17,false,draw,"",Draw,"",Draw,Actual Time,8
+1954,84,Group stage,Uruguay,7,0,Scotland,1954,June,19,false,"",Scotland,Scotland,Uruguay,Uruguay,Actual Time,7
+1954,85,Group stage,Austria,5,0,Czechoslovakia,1954,June,19,false,"",Czechoslovakia,Czechoslovakia,Austria,Austria,Actual Time,5
+1954,86,Group stage,Brazil,1,1,Yugoslavia,1954,June,19,false,draw,"",Draw,"",Draw,Actual Time,2
+1954,87,Group stage,France,3,2,Mexico,1954,June,19,false,"",Mexico,Mexico,France,France,Actual Time,5
+1954,88,Group stage,Hungary,8,3,Germany,1954,June,20,false,"",Germany,Germany,Hungary,Hungary,Actual Time,11
+1954,89,Group stage,Turkey,7,0,South Korea,1954,June,20,false,"",South Korea,South Korea,Turkey,Turkey,Actual Time,7
+1954,90,Group stage,Italy,4,1,Belgium,1954,June,20,false,"",Belgium,Belgium,Italy,Italy,Actual Time,5
+1954,91,Group stage,Switzerland,0,2,England,1954,June,20,true,"",Switzerland,Switzerland,England,England,Actual Time,2
+1954,92,Group stage,Germany,7,2,Turkey,1954,June,23,false,"",Turkey,Turkey,Germany,Germany,Actual Time,9
+1954,93,Group stage,Switzerland,4,1,Italy,1954,June,23,true,"",Italy,Italy,Switzerland,Switzerland,Actual Time,5
+1954,94,Quarter-finals,Uruguay,4,2,England,1954,June,26,false,"",England,England,Uruguay,Uruguay,Actual Time,6
+1954,95,Quarter-finals,Switzerland,5,7,Austria,1954,June,26,true,"",Switzerland,Switzerland,Austria,Austria,Actual Time,12
+1954,96,Quarter-finals,Germany,2,0,Yugoslavia,1954,June,27,false,"",Yugoslavia,Yugoslavia,Germany,Germany,Actual Time,2
+1954,97,Quarter-finals,Hungary,4,2,Brazil,1954,June,27,false,"",Brazil,Brazil,Hungary,Hungary,Actual Time,6
+1954,98,Semi-finals,Germany,6,1,Austria,1954,June,30,false,"",Austria,Austria,Germany,Germany,Actual Time,7
+1954,99,Semi-finals,Hungary,4,2,Uruguay,1954,June,30,false,"",Uruguay,Uruguay,Hungary,Hungary,Extra time,6
+1954,100,Third place,Austria,3,1,Uruguay,1954,July,3,false,"",Uruguay,Uruguay,Austria,Austria,Actual Time,4
+1954,101,Final,Germany,3,2,Hungary,1954,July,4,false,"",Hungary,Hungary,Germany,Germany,Actual Time,5
+1958,102,Group stage,Sweden,3,0,Mexico,1958,June,8,true,"",Mexico,Mexico,Sweden,Sweden,Actual Time,3
+1958,103,Group stage,Russia,2,2,England,1958,June,8,false,draw,"",Draw,"",Draw,Actual Time,4
+1958,104,Group stage,Argentina,1,3,Germany,1958,June,8,false,"",Argentina,Argentina,Germany,Germany,Actual Time,4
+1958,105,Group stage,Hungary,1,1,Wales,1958,June,8,false,draw,"",Draw,"",Draw,Actual Time,2
+1958,106,Group stage,France,7,3,Paraguay,1958,June,8,false,"",Paraguay,Paraguay,France,France,Actual Time,10
+1958,107,Group stage,Yugoslavia,1,1,Scotland,1958,June,8,false,draw,"",Draw,"",Draw,Actual Time,2
+1958,108,Group stage,Brazil,3,0,Austria,1958,June,8,false,"",Austria,Austria,Brazil,Brazil,Actual Time,3
+1958,109,Group stage,Northern Ireland,1,0,Czechoslovakia,1958,June,8,false,"",Czechoslovakia,Czechoslovakia,Northern Ireland,Northern Ireland,Actual Time,1
+1958,110,Group stage,Brazil,0,0,England,1958,June,11,false,draw,"",Draw,"",Draw,Actual Time,0
+1958,111,Group stage,Mexico,1,1,Wales,1958,June,11,false,draw,"",Draw,"",Draw,Actual Time,2
+1958,112,Group stage,Paraguay,3,2,Scotland,1958,June,11,false,"",Scotland,Scotland,Paraguay,Paraguay,Actual Time,5
+1958,113,Group stage,Yugoslavia,3,2,France,1958,June,11,false,"",France,France,Yugoslavia,Yugoslavia,Actual Time,5
+1958,114,Group stage,Russia,2,0,Austria,1958,June,11,false,"",Austria,Austria,Russia,Russia,Actual Time,2
+1958,115,Group stage,Germany,2,2,Czechoslovakia,1958,June,11,false,draw,"",Draw,"",Draw,Actual Time,4
+1958,116,Group stage,Argentina,3,1,Northern Ireland,1958,June,11,false,"",Northern Ireland,Northern Ireland,Argentina,Argentina,Actual Time,4
+1958,117,Group stage,Sweden,2,1,Hungary,1958,June,12,true,"",Hungary,Hungary,Sweden,Sweden,Actual Time,3
+1958,118,Group stage,Sweden,0,0,Wales,1958,June,15,true,draw,"",Draw,"",Draw,Actual Time,0
+1958,119,Group stage,Brazil,2,0,Russia,1958,June,15,false,"",Russia,Russia,Brazil,Brazil,Actual Time,2
+1958,120,Group stage,Germany,2,2,Northern Ireland,1958,June,15,false,draw,"",Draw,"",Draw,Actual Time,4
+1958,121,Group stage,Hungary,4,0,Mexico,1958,June,15,false,"",Mexico,Mexico,Hungary,Hungary,Actual Time,4
+1958,122,Group stage,Paraguay,3,3,Yugoslavia,1958,June,15,false,draw,"",Draw,"",Draw,Actual Time,6
+1958,123,Group stage,France,2,1,Scotland,1958,June,15,false,"",Scotland,Scotland,France,France,Actual Time,3
+1958,124,Group stage,England,2,2,Austria,1958,June,15,false,draw,"",Draw,"",Draw,Actual Time,4
+1958,125,Group stage,Czechoslovakia,6,1,Argentina,1958,June,15,false,"",Argentina,Argentina,Czechoslovakia,Czechoslovakia,Actual Time,7
+1958,126,Group stage,Russia,1,0,England,1958,June,17,false,"",England,England,Russia,Russia,Actual Time,1
+1958,127,Group stage,Northern Ireland,2,1,Czechoslovakia,1958,June,17,false,"",Czechoslovakia,Czechoslovakia,Northern Ireland,Northern Ireland,Extra time,3
+1958,128,Group stage,Wales,2,1,Hungary,1958,June,17,false,"",Hungary,Hungary,Wales,Wales,Actual Time,3
+1958,129,Quarter-finals,Brazil,1,0,Wales,1958,June,19,false,"",Wales,Wales,Brazil,Brazil,Actual Time,1
+1958,130,Quarter-finals,Germany,1,0,Yugoslavia,1958,June,19,false,"",Yugoslavia,Yugoslavia,Germany,Germany,Actual Time,1
+1958,131,Quarter-finals,Sweden,2,0,Russia,1958,June,19,true,"",Russia,Russia,Sweden,Sweden,Actual Time,2
+1958,132,Quarter-finals,France,4,0,Northern Ireland,1958,June,19,false,"",Northern Ireland,Northern Ireland,France,France,Actual Time,4
+1958,133,Semi-finals,Sweden,3,1,Germany,1958,June,24,true,"",Germany,Germany,Sweden,Sweden,Actual Time,4
+1958,134,Semi-finals,Brazil,5,2,France,1958,June,24,false,"",France,France,Brazil,Brazil,Actual Time,7
+1958,135,Third place,France,6,3,Germany,1958,June,28,false,"",Germany,Germany,France,France,Actual Time,9
+1958,136,Final,Brazil,5,2,Sweden,1958,June,29,true,"",Sweden,Sweden,Brazil,Brazil,Actual Time,7
+1962,137,Group stage,Uruguay,2,1,Colombia,1962,May,30,false,"",Colombia,Colombia,Uruguay,Uruguay,Actual Time,3
+1962,138,Group stage,Brazil,2,0,Mexico,1962,May,30,false,"",Mexico,Mexico,Brazil,Brazil,Actual Time,2
+1962,139,Group stage,Argentina,1,0,Bulgaria,1962,May,30,false,"",Bulgaria,Bulgaria,Argentina,Argentina,Actual Time,1
+1962,140,Group stage,Chile,3,1,Switzerland,1962,May,30,true,"",Switzerland,Switzerland,Chile,Chile,Actual Time,4
+1962,141,Group stage,Russia,2,0,Yugoslavia,1962,May,31,false,"",Yugoslavia,Yugoslavia,Russia,Russia,Actual Time,2
+1962,142,Group stage,Czechoslovakia,1,0,Spain,1962,May,31,false,"",Spain,Spain,Czechoslovakia,Czechoslovakia,Actual Time,1
+1962,143,Group stage,Hungary,2,1,England,1962,May,31,false,"",England,England,Hungary,Hungary,Actual Time,3
+1962,144,Group stage,Germany,0,0,Italy,1962,May,31,false,draw,"",Draw,"",Draw,Actual Time,0
+1962,145,Group stage,Yugoslavia,3,1,Uruguay,1962,June,2,false,"",Uruguay,Uruguay,Yugoslavia,Yugoslavia,Actual Time,4
+1962,146,Group stage,Brazil,0,0,Czechoslovakia,1962,June,2,false,draw,"",Draw,"",Draw,Actual Time,0
+1962,147,Group stage,England,3,1,Argentina,1962,June,2,false,"",Argentina,Argentina,England,England,Actual Time,4
+1962,148,Group stage,Chile,2,0,Italy,1962,June,2,true,"",Italy,Italy,Chile,Chile,Actual Time,2
+1962,149,Group stage,Russia,4,4,Colombia,1962,June,3,false,draw,"",Draw,"",Draw,Actual Time,8
+1962,150,Group stage,Spain,1,0,Mexico,1962,June,3,false,"",Mexico,Mexico,Spain,Spain,Actual Time,1
+1962,151,Group stage,Hungary,6,1,Bulgaria,1962,June,3,false,"",Bulgaria,Bulgaria,Hungary,Hungary,Actual Time,7
+1962,152,Group stage,Germany,2,1,Switzerland,1962,June,3,false,"",Switzerland,Switzerland,Germany,Germany,Actual Time,3
+1962,153,Group stage,Russia,2,1,Uruguay,1962,June,6,false,"",Uruguay,Uruguay,Russia,Russia,Actual Time,3
+1962,154,Group stage,Brazil,2,1,Spain,1962,June,6,false,"",Spain,Spain,Brazil,Brazil,Actual Time,3
+1962,155,Group stage,Hungary,0,0,Argentina,1962,June,6,false,draw,"",Draw,"",Draw,Actual Time,0
+1962,156,Group stage,Chile,0,2,Germany,1962,June,6,true,"",Chile,Chile,Germany,Germany,Actual Time,2
+1962,157,Group stage,Yugoslavia,5,0,Colombia,1962,June,7,false,"",Colombia,Colombia,Yugoslavia,Yugoslavia,Actual Time,5
+1962,158,Group stage,Mexico,3,1,Czechoslovakia,1962,June,7,false,"",Czechoslovakia,Czechoslovakia,Mexico,Mexico,Actual Time,4
+1962,159,Group stage,England,0,0,Bulgaria,1962,June,7,false,draw,"",Draw,"",Draw,Actual Time,0
+1962,160,Group stage,Italy,3,0,Switzerland,1962,June,7,false,"",Switzerland,Switzerland,Italy,Italy,Actual Time,3
+1962,161,Quarter-finals,Chile,2,1,Russia,1962,June,10,true,"",Russia,Russia,Chile,Chile,Actual Time,3
+1962,162,Quarter-finals,Brazil,3,1,England,1962,June,10,false,"",England,England,Brazil,Brazil,Actual Time,4
+1962,163,Quarter-finals,Czechoslovakia,1,0,Hungary,1962,June,10,false,"",Hungary,Hungary,Czechoslovakia,Czechoslovakia,Actual Time,1
+1962,164,Quarter-finals,Yugoslavia,1,0,Germany,1962,June,10,false,"",Germany,Germany,Yugoslavia,Yugoslavia,Actual Time,1
+1962,165,Semi-finals,Czechoslovakia,3,1,Yugoslavia,1962,June,13,false,"",Yugoslavia,Yugoslavia,Czechoslovakia,Czechoslovakia,Actual Time,4
+1962,166,Semi-finals,Chile,2,4,Brazil,1962,June,13,true,"",Chile,Chile,Brazil,Brazil,Actual Time,6
+1962,167,Third place,Chile,1,0,Yugoslavia,1962,June,16,true,"",Yugoslavia,Yugoslavia,Chile,Chile,Actual Time,1
+1962,168,Final,Brazil,3,1,Czechoslovakia,1962,June,17,false,"",Czechoslovakia,Czechoslovakia,Brazil,Brazil,Actual Time,4
+1966,169,Group stage,England,0,0,Uruguay,1966,July,11,true,draw,"",Draw,"",Draw,Actual Time,0
+1966,170,Group stage,Germany,5,0,Switzerland,1966,July,12,false,"",Switzerland,Switzerland,Germany,Germany,Actual Time,5
+1966,171,Group stage,Brazil,2,0,Bulgaria,1966,July,12,false,"",Bulgaria,Bulgaria,Brazil,Brazil,Actual Time,2
+1966,172,Group stage,Russia,3,0,North Korea,1966,July,12,false,"",North Korea,North Korea,Russia,Russia,Actual Time,3
+1966,173,Group stage,France,1,1,Mexico,1966,July,13,false,draw,"",Draw,"",Draw,Actual Time,2
+1966,174,Group stage,Portugal,3,1,Hungary,1966,July,13,false,"",Hungary,Hungary,Portugal,Portugal,Actual Time,4
+1966,175,Group stage,Argentina,2,1,Spain,1966,July,13,false,"",Spain,Spain,Argentina,Argentina,Actual Time,3
+1966,176,Group stage,Italy,2,0,Chile,1966,July,13,false,"",Chile,Chile,Italy,Italy,Actual Time,2
+1966,177,Group stage,Uruguay,2,1,France,1966,July,15,false,"",France,France,Uruguay,Uruguay,Actual Time,3
+1966,178,Group stage,Spain,2,1,Switzerland,1966,July,15,false,"",Switzerland,Switzerland,Spain,Spain,Actual Time,3
+1966,179,Group stage,Hungary,3,1,Brazil,1966,July,15,false,"",Brazil,Brazil,Hungary,Hungary,Actual Time,4
+1966,180,Group stage,North Korea,1,1,Chile,1966,July,15,false,draw,"",Draw,"",Draw,Actual Time,2
+1966,181,Group stage,Portugal,3,0,Bulgaria,1966,July,16,false,"",Bulgaria,Bulgaria,Portugal,Portugal,Actual Time,3
+1966,182,Group stage,Germany,0,0,Argentina,1966,July,16,false,draw,"",Draw,"",Draw,Actual Time,0
+1966,183,Group stage,Russia,1,0,Italy,1966,July,16,false,"",Italy,Italy,Russia,Russia,Actual Time,1
+1966,184,Group stage,England,2,0,Mexico,1966,July,16,true,"",Mexico,Mexico,England,England,Actual Time,2
+1966,185,Group stage,Uruguay,0,0,Mexico,1966,July,19,false,draw,"",Draw,"",Draw,Actual Time,0
+1966,186,Group stage,Argentina,2,0,Switzerland,1966,July,19,false,"",Switzerland,Switzerland,Argentina,Argentina,Actual Time,2
+1966,187,Group stage,Portugal,3,1,Brazil,1966,July,19,false,"",Brazil,Brazil,Portugal,Portugal,Actual Time,4
+1966,188,Group stage,North Korea,1,0,Italy,1966,July,19,false,"",Italy,Italy,North Korea,North Korea,Actual Time,1
+1966,189,Group stage,England,2,0,France,1966,July,20,true,"",France,France,England,England,Actual Time,2
+1966,190,Group stage,Hungary,3,1,Bulgaria,1966,July,20,false,"",Bulgaria,Bulgaria,Hungary,Hungary,Actual Time,4
+1966,191,Group stage,Germany,2,1,Spain,1966,July,20,false,"",Spain,Spain,Germany,Germany,Actual Time,3
+1966,192,Group stage,Russia,2,1,Chile,1966,July,20,false,"",Chile,Chile,Russia,Russia,Actual Time,3
+1966,193,Quarter-finals,England,1,0,Argentina,1966,July,23,true,"",Argentina,Argentina,England,England,Actual Time,1
+1966,194,Quarter-finals,Germany,4,0,Uruguay,1966,July,23,false,"",Uruguay,Uruguay,Germany,Germany,Actual Time,4
+1966,195,Quarter-finals,Russia,2,1,Hungary,1966,July,23,false,"",Hungary,Hungary,Russia,Russia,Actual Time,3
+1966,196,Quarter-finals,Portugal,5,3,North Korea,1966,July,23,false,"",North Korea,North Korea,Portugal,Portugal,Actual Time,8
+1966,197,Semi-finals,Germany,2,1,Russia,1966,July,25,false,"",Russia,Russia,Germany,Germany,Actual Time,3
+1966,198,Semi-finals,England,2,1,Portugal,1966,July,26,true,"",Portugal,Portugal,England,England,Actual Time,3
+1966,199,Third place,Portugal,2,1,Russia,1966,July,28,false,"",Russia,Russia,Portugal,Portugal,Actual Time,3
+1966,200,Final,England,4,2,Germany,1966,July,30,true,"",Germany,Germany,England,England,Extra time,6
+1970,201,Group stage,Mexico,0,0,Russia,1970,May,31,true,draw,"",Draw,"",Draw,Actual Time,0
+1970,202,Group stage,Uruguay,2,0,Israel,1970,June,2,false,"",Israel,Israel,Uruguay,Uruguay,Actual Time,2
+1970,203,Group stage,Peru,3,2,Bulgaria,1970,June,2,false,"",Bulgaria,Bulgaria,Peru,Peru,Actual Time,5
+1970,204,Group stage,England,1,0,Romania,1970,June,2,false,"",Romania,Romania,England,England,Actual Time,1
+1970,205,Group stage,Italy,1,0,Sweden,1970,June,3,false,"",Sweden,Sweden,Italy,Italy,Actual Time,1
+1970,206,Group stage,Germany,2,1,Morocco,1970,June,3,false,"",Morocco,Morocco,Germany,Germany,Actual Time,3
+1970,207,Group stage,Brazil,4,1,Czechoslovakia,1970,June,3,false,"",Czechoslovakia,Czechoslovakia,Brazil,Brazil,Actual Time,5
+1970,208,Group stage,Belgium,3,0,El Salvador,1970,June,3,false,"",El Salvador,El Salvador,Belgium,Belgium,Actual Time,3
+1970,209,Group stage,Uruguay,0,0,Italy,1970,June,6,false,draw,"",Draw,"",Draw,Actual Time,0
+1970,210,Group stage,Peru,3,0,Morocco,1970,June,6,false,"",Morocco,Morocco,Peru,Peru,Actual Time,3
+1970,211,Group stage,Romania,2,1,Czechoslovakia,1970,June,6,false,"",Czechoslovakia,Czechoslovakia,Romania,Romania,Actual Time,3
+1970,212,Group stage,Russia,4,1,Belgium,1970,June,6,false,"",Belgium,Belgium,Russia,Russia,Actual Time,5
+1970,213,Group stage,Sweden,1,1,Israel,1970,June,7,false,draw,"",Draw,"",Draw,Actual Time,2
+1970,214,Group stage,Germany,5,2,Bulgaria,1970,June,7,false,"",Bulgaria,Bulgaria,Germany,Germany,Actual Time,7
+1970,215,Group stage,Brazil,1,0,England,1970,June,7,false,"",England,England,Brazil,Brazil,Actual Time,1
+1970,216,Group stage,Mexico,4,0,El Salvador,1970,June,7,true,"",El Salvador,El Salvador,Mexico,Mexico,Actual Time,4
+1970,217,Group stage,Sweden,1,0,Uruguay,1970,June,10,false,"",Uruguay,Uruguay,Sweden,Sweden,Actual Time,1
+1970,218,Group stage,Germany,3,1,Peru,1970,June,10,false,"",Peru,Peru,Germany,Germany,Actual Time,4
+1970,219,Group stage,Brazil,3,2,Romania,1970,June,10,false,"",Romania,Romania,Brazil,Brazil,Actual Time,5
+1970,220,Group stage,Russia,2,0,El Salvador,1970,June,10,false,"",El Salvador,El Salvador,Russia,Russia,Actual Time,2
+1970,221,Group stage,Italy,0,0,Israel,1970,June,11,false,draw,"",Draw,"",Draw,Actual Time,0
+1970,222,Group stage,Bulgaria,1,1,Morocco,1970,June,11,false,draw,"",Draw,"",Draw,Actual Time,2
+1970,223,Group stage,England,1,0,Czechoslovakia,1970,June,11,false,"",Czechoslovakia,Czechoslovakia,England,England,Actual Time,1
+1970,224,Group stage,Mexico,1,0,Belgium,1970,June,11,true,"",Belgium,Belgium,Mexico,Mexico,Actual Time,1
+1970,225,Quarter-finals,Mexico,1,4,Italy,1970,June,14,true,"",Mexico,Mexico,Italy,Italy,Actual Time,5
+1970,226,Quarter-finals,Germany,3,2,England,1970,June,14,false,"",England,England,Germany,Germany,Extra time,5
+1970,227,Quarter-finals,Brazil,4,2,Peru,1970,June,14,false,"",Peru,Peru,Brazil,Brazil,Actual Time,6
+1970,228,Quarter-finals,Uruguay,1,0,Russia,1970,June,14,false,"",Russia,Russia,Uruguay,Uruguay,Extra time,1
+1970,229,Semi-finals,Brazil,3,1,Uruguay,1970,June,17,false,"",Uruguay,Uruguay,Brazil,Brazil,Actual Time,4
+1970,230,Semi-finals,Italy,4,3,Germany,1970,June,17,false,"",Germany,Germany,Italy,Italy,Extra time,7
+1970,231,Third place,Germany,1,0,Uruguay,1970,June,20,false,"",Uruguay,Uruguay,Germany,Germany,Actual Time,1
+1970,232,Final,Brazil,4,1,Italy,1970,June,21,false,"",Italy,Italy,Brazil,Brazil,Actual Time,5
+1974,233,First group stage,Brazil,0,0,Yugoslavia,1974,June,13,false,draw,"",Draw,"",Draw,Actual Time,0
+1974,234,First group stage,Germany,1,0,Chile,1974,June,14,true,"",Chile,Chile,Germany,Germany,Actual Time,1
+1974,235,First group stage,Germany,2,0,Australia,1974,June,14,false,"",Australia,Australia,East Germany,Germany,Actual Time,2
+1974,236,First group stage,DR Congo,0,2,Scotland,1974,June,14,false,"",DR Congo,DR Congo,Scotland,Scotland,Actual Time,2
+1974,237,First group stage,Uruguay,0,2,Netherlands,1974,June,15,false,"",Uruguay,Uruguay,Netherlands,Netherlands,Actual Time,2
+1974,238,First group stage,Sweden,0,0,Bulgaria,1974,June,15,false,draw,"",Draw,"",Draw,Actual Time,0
+1974,239,First group stage,Italy,3,1,Haiti,1974,June,15,false,"",Haiti,Haiti,Italy,Italy,Actual Time,4
+1974,240,First group stage,Poland,3,2,Argentina,1974,June,15,false,"",Argentina,Argentina,Poland,Poland,Actual Time,5
+1974,241,First group stage,Germany,3,0,Australia,1974,June,18,true,"",Australia,Australia,Germany,Germany,Actual Time,3
+1974,242,First group stage,Scotland,0,0,Brazil,1974,June,18,false,draw,"",Draw,"",Draw,Actual Time,0
+1974,243,First group stage,Chile,1,1,Germany,1974,June,18,false,draw,"",Draw,"",Draw,Actual Time,2
+1974,244,First group stage,Yugoslavia,9,0,DR Congo,1974,June,18,false,"",DR Congo,DR Congo,Yugoslavia,Yugoslavia,Actual Time,9
+1974,245,First group stage,Netherlands,0,0,Sweden,1974,June,19,false,draw,"",Draw,"",Draw,Actual Time,0
+1974,246,First group stage,Bulgaria,1,1,Uruguay,1974,June,19,false,draw,"",Draw,"",Draw,Actual Time,2
+1974,247,First group stage,Haiti,0,7,Poland,1974,June,19,false,"",Haiti,Haiti,Poland,Poland,Actual Time,7
+1974,248,First group stage,Argentina,1,1,Italy,1974,June,19,false,draw,"",Draw,"",Draw,Actual Time,2
+1974,249,First group stage,Scotland,1,1,Yugoslavia,1974,June,22,false,draw,"",Draw,"",Draw,Actual Time,2
+1974,250,First group stage,Australia,0,0,Chile,1974,June,22,false,draw,"",Draw,"",Draw,Actual Time,0
+1974,251,First group stage,DR Congo,0,3,Brazil,1974,June,22,false,"",DR Congo,DR Congo,Brazil,Brazil,Actual Time,3
+1974,252,First group stage,Germany,0,1,Germany,1974,June,22,true,"",Germany,Germany,East Germany,Germany,Actual Time,1
+1974,253,First group stage,Bulgaria,1,4,Netherlands,1974,June,23,false,"",Bulgaria,Bulgaria,Netherlands,Netherlands,Actual Time,5
+1974,254,First group stage,Argentina,4,1,Haiti,1974,June,23,false,"",Haiti,Haiti,Argentina,Argentina,Actual Time,5
+1974,255,First group stage,Sweden,3,0,Uruguay,1974,June,23,false,"",Uruguay,Uruguay,Sweden,Sweden,Actual Time,3
+1974,256,First group stage,Poland,2,1,Italy,1974,June,23,false,"",Italy,Italy,Poland,Poland,Actual Time,3
+1974,257,Second group stage,Germany,2,0,Yugoslavia,1974,June,26,true,"",Yugoslavia,Yugoslavia,Germany,Germany,Actual Time,2
+1974,258,Second group stage,Brazil,1,0,Germany,1974,June,26,false,"",East Germany,Germany,Brazil,Brazil,Actual Time,1
+1974,259,Second group stage,Netherlands,4,0,Argentina,1974,June,26,false,"",Argentina,Argentina,Netherlands,Netherlands,Actual Time,4
+1974,260,Second group stage,Sweden,0,1,Poland,1974,June,26,false,"",Sweden,Sweden,Poland,Poland,Actual Time,1
+1974,261,Second group stage,Argentina,1,2,Brazil,1974,June,30,false,"",Argentina,Argentina,Brazil,Brazil,Actual Time,3
+1974,262,Second group stage,Poland,2,1,Yugoslavia,1974,June,30,false,"",Yugoslavia,Yugoslavia,Poland,Poland,Actual Time,3
+1974,263,Second group stage,Germany,0,2,Netherlands,1974,June,30,false,"",East Germany,Germany,Netherlands,Netherlands,Actual Time,2
+1974,264,Second group stage,Germany,4,2,Sweden,1974,June,30,true,"",Sweden,Sweden,Germany,Germany,Actual Time,6
+1974,265,Second group stage,Germany,1,0,Poland,1974,July,3,true,"",Poland,Poland,Germany,Germany,Actual Time,1
+1974,266,Second group stage,Netherlands,2,0,Brazil,1974,July,3,false,"",Brazil,Brazil,Netherlands,Netherlands,Actual Time,2
+1974,267,Second group stage,Argentina,1,1,Germany,1974,July,3,false,draw,"",Draw,"",Draw,Actual Time,2
+1974,268,Second group stage,Sweden,2,1,Yugoslavia,1974,July,3,false,"",Yugoslavia,Yugoslavia,Sweden,Sweden,Actual Time,3
+1974,269,Third place,Brazil,0,1,Poland,1974,July,6,false,"",Brazil,Brazil,Poland,Poland,Actual Time,1
+1974,270,Final,Germany,2,1,Netherlands,1974,July,7,true,"",Netherlands,Netherlands,Germany,Germany,Actual Time,3
+1978,271,First group stage,Germany,0,0,Poland,1978,June,1,false,draw,"",Draw,"",Draw,Actual Time,0
+1978,272,First group stage,Italy,2,1,France,1978,June,2,false,"",France,France,Italy,Italy,Actual Time,3
+1978,273,First group stage,Tunisia,3,1,Mexico,1978,June,2,false,"",Mexico,Mexico,Tunisia,Tunisia,Actual Time,4
+1978,274,First group stage,Argentina,2,1,Hungary,1978,June,2,true,"",Hungary,Hungary,Argentina,Argentina,Actual Time,3
+1978,275,First group stage,Sweden,1,1,Brazil,1978,June,3,false,draw,"",Draw,"",Draw,Actual Time,2
+1978,276,First group stage,Austria,2,1,Spain,1978,June,3,false,"",Spain,Spain,Austria,Austria,Actual Time,3
+1978,277,First group stage,Peru,3,1,Scotland,1978,June,3,false,"",Scotland,Scotland,Peru,Peru,Actual Time,4
+1978,278,First group stage,Netherlands,3,0,Iran,1978,June,3,false,"",Iran,Iran,Netherlands,Netherlands,Actual Time,3
+1978,279,First group stage,Italy,3,1,Hungary,1978,June,6,false,"",Hungary,Hungary,Italy,Italy,Actual Time,4
+1978,280,First group stage,Poland,1,0,Tunisia,1978,June,6,false,"",Tunisia,Tunisia,Poland,Poland,Actual Time,1
+1978,281,First group stage,Germany,6,0,Mexico,1978,June,6,false,"",Mexico,Mexico,Germany,Germany,Actual Time,6
+1978,282,First group stage,Argentina,2,1,France,1978,June,6,true,"",France,France,Argentina,Argentina,Actual Time,3
+1978,283,First group stage,Brazil,0,0,Spain,1978,June,7,false,draw,"",Draw,"",Draw,Actual Time,0
+1978,284,First group stage,Austria,1,0,Sweden,1978,June,7,false,"",Sweden,Sweden,Austria,Austria,Actual Time,1
+1978,285,First group stage,Scotland,1,1,Iran,1978,June,7,false,draw,"",Draw,"",Draw,Actual Time,2
+1978,286,First group stage,Netherlands,0,0,Peru,1978,June,7,false,draw,"",Draw,"",Draw,Actual Time,0
+1978,287,First group stage,France,3,1,Hungary,1978,June,10,false,"",Hungary,Hungary,France,France,Actual Time,4
+1978,288,First group stage,Poland,3,1,Mexico,1978,June,10,false,"",Mexico,Mexico,Poland,Poland,Actual Time,4
+1978,289,First group stage,Germany,0,0,Tunisia,1978,June,10,false,draw,"",Draw,"",Draw,Actual Time,0
+1978,290,First group stage,Argentina,0,1,Italy,1978,June,10,true,"",Argentina,Argentina,Italy,Italy,Actual Time,1
+1978,291,First group stage,Brazil,1,0,Austria,1978,June,11,false,"",Austria,Austria,Brazil,Brazil,Actual Time,1
+1978,292,First group stage,Spain,1,0,Sweden,1978,June,11,false,"",Sweden,Sweden,Spain,Spain,Actual Time,1
+1978,293,First group stage,Peru,4,1,Iran,1978,June,11,false,"",Iran,Iran,Peru,Peru,Actual Time,5
+1978,294,First group stage,Scotland,3,2,Netherlands,1978,June,11,false,"",Netherlands,Netherlands,Scotland,Scotland,Actual Time,5
+1978,295,Second group stage,Germany,0,0,Italy,1978,June,14,false,draw,"",Draw,"",Draw,Actual Time,0
+1978,296,Second group stage,Netherlands,5,1,Austria,1978,June,14,false,"",Austria,Austria,Netherlands,Netherlands,Actual Time,6
+1978,297,Second group stage,Brazil,3,0,Peru,1978,June,14,false,"",Peru,Peru,Brazil,Brazil,Actual Time,3
+1978,298,Second group stage,Argentina,2,0,Poland,1978,June,14,true,"",Poland,Poland,Argentina,Argentina,Actual Time,2
+1978,299,Second group stage,Poland,1,0,Peru,1978,June,18,false,"",Peru,Peru,Poland,Poland,Actual Time,1
+1978,300,Second group stage,Italy,1,0,Austria,1978,June,18,false,"",Austria,Austria,Italy,Italy,Actual Time,1
+1978,301,Second group stage,Germany,2,2,Netherlands,1978,June,18,false,draw,"",Draw,"",Draw,Actual Time,4
+1978,302,Second group stage,Argentina,0,0,Brazil,1978,June,18,true,draw,"",Draw,"",Draw,Actual Time,0
+1978,303,Second group stage,Netherlands,2,1,Italy,1978,June,21,false,"",Italy,Italy,Netherlands,Netherlands,Actual Time,3
+1978,304,Second group stage,Austria,3,2,Germany,1978,June,21,false,"",Germany,Germany,Austria,Austria,Actual Time,5
+1978,305,Second group stage,Brazil,3,1,Poland,1978,June,21,false,"",Poland,Poland,Brazil,Brazil,Actual Time,4
+1978,306,Second group stage,Argentina,6,0,Peru,1978,June,21,true,"",Peru,Peru,Argentina,Argentina,Actual Time,6
+1978,307,Third place,Brazil,2,1,Italy,1978,June,24,false,"",Italy,Italy,Brazil,Brazil,Actual Time,3
+1978,308,Final,Argentina,3,1,Netherlands,1978,June,25,true,"",Netherlands,Netherlands,Argentina,Argentina,Extra time,4
+1982,309,First group stage,Argentina,0,1,Belgium,1982,June,13,false,"",Argentina,Argentina,Belgium,Belgium,Actual Time,1
+1982,310,First group stage,Italy,0,0,Poland,1982,June,14,false,draw,"",Draw,"",Draw,Actual Time,0
+1982,311,First group stage,Brazil,2,1,Russia,1982,June,14,false,"",Russia,Russia,Brazil,Brazil,Actual Time,3
+1982,312,First group stage,Peru,0,0,Cameroon,1982,June,15,false,draw,"",Draw,"",Draw,Actual Time,0
+1982,313,First group stage,Hungary,10,1,El Salvador,1982,June,15,false,"",El Salvador,El Salvador,Hungary,Hungary,Actual Time,11
+1982,314,First group stage,Scotland,5,2,New Zealand,1982,June,15,false,"",New Zealand,New Zealand,Scotland,Scotland,Actual Time,7
+1982,315,First group stage,Germany,1,2,Algeria,1982,June,16,false,"",Germany,Germany,Algeria,Algeria,Actual Time,3
+1982,316,First group stage,England,3,1,France,1982,June,16,false,"",France,France,England,England,Actual Time,4
+1982,317,First group stage,Spain,1,1,Honduras,1982,June,16,true,draw,"",Draw,"",Draw,Actual Time,2
+1982,318,First group stage,Chile,0,1,Austria,1982,June,17,false,"",Chile,Chile,Austria,Austria,Actual Time,1
+1982,319,First group stage,Czechoslovakia,1,1,Kuwait,1982,June,17,false,draw,"",Draw,"",Draw,Actual Time,2
+1982,320,First group stage,Yugoslavia,0,0,Northern Ireland,1982,June,17,false,draw,"",Draw,"",Draw,Actual Time,0
+1982,321,First group stage,Italy,1,1,Peru,1982,June,18,false,draw,"",Draw,"",Draw,Actual Time,2
+1982,322,First group stage,Argentina,4,1,Hungary,1982,June,18,false,"",Hungary,Hungary,Argentina,Argentina,Actual Time,5
+1982,323,First group stage,Brazil,4,1,Scotland,1982,June,18,false,"",Scotland,Scotland,Brazil,Brazil,Actual Time,5
+1982,324,First group stage,Poland,0,0,Cameroon,1982,June,19,false,draw,"",Draw,"",Draw,Actual Time,0
+1982,325,First group stage,Belgium,1,0,El Salvador,1982,June,19,false,"",El Salvador,El Salvador,Belgium,Belgium,Actual Time,1
+1982,326,First group stage,Russia,3,0,New Zealand,1982,June,19,false,"",New Zealand,New Zealand,Russia,Russia,Actual Time,3
+1982,327,First group stage,Germany,4,1,Chile,1982,June,20,false,"",Chile,Chile,Germany,Germany,Actual Time,5
+1982,328,First group stage,England,2,0,Czechoslovakia,1982,June,20,false,"",Czechoslovakia,Czechoslovakia,England,England,Actual Time,2
+1982,329,First group stage,Spain,2,1,Yugoslavia,1982,June,20,true,"",Yugoslavia,Yugoslavia,Spain,Spain,Actual Time,3
+1982,330,First group stage,Algeria,0,2,Austria,1982,June,21,false,"",Algeria,Algeria,Austria,Austria,Actual Time,2
+1982,331,First group stage,France,4,1,Kuwait,1982,June,21,false,"",Kuwait,Kuwait,France,France,Actual Time,5
+1982,332,First group stage,Honduras,1,1,Northern Ireland,1982,June,21,false,draw,"",Draw,"",Draw,Actual Time,2
+1982,333,First group stage,Poland,5,1,Peru,1982,June,22,false,"",Peru,Peru,Poland,Poland,Actual Time,6
+1982,334,First group stage,Belgium,1,1,Hungary,1982,June,22,false,draw,"",Draw,"",Draw,Actual Time,2
+1982,335,First group stage,Russia,2,2,Scotland,1982,June,22,false,draw,"",Draw,"",Draw,Actual Time,4
+1982,336,First group stage,Italy,1,1,Cameroon,1982,June,23,false,draw,"",Draw,"",Draw,Actual Time,2
+1982,337,First group stage,Argentina,2,0,El Salvador,1982,June,23,false,"",El Salvador,El Salvador,Argentina,Argentina,Actual Time,2
+1982,338,First group stage,Brazil,4,0,New Zealand,1982,June,23,false,"",New Zealand,New Zealand,Brazil,Brazil,Actual Time,4
+1982,339,First group stage,Algeria,3,2,Chile,1982,June,24,false,"",Chile,Chile,Algeria,Algeria,Actual Time,5
+1982,340,First group stage,France,1,1,Czechoslovakia,1982,June,24,false,draw,"",Draw,"",Draw,Actual Time,2
+1982,341,First group stage,Honduras,0,1,Yugoslavia,1982,June,24,false,"",Honduras,Honduras,Yugoslavia,Yugoslavia,Actual Time,1
+1982,342,First group stage,Germany,1,0,Austria,1982,June,25,false,"",Austria,Austria,Germany,Germany,Actual Time,1
+1982,343,First group stage,England,1,0,Kuwait,1982,June,25,false,"",Kuwait,Kuwait,England,England,Actual Time,1
+1982,344,First group stage,Spain,0,1,Northern Ireland,1982,June,25,true,"",Spain,Spain,Northern Ireland,Northern Ireland,Actual Time,1
+1982,345,Second group stage,Austria,0,1,France,1982,June,28,false,"",Austria,Austria,France,France,Actual Time,1
+1982,346,Second group stage,Poland,3,0,Belgium,1982,June,28,false,"",Belgium,Belgium,Poland,Poland,Actual Time,3
+1982,347,Second group stage,Italy,2,1,Argentina,1982,June,29,false,"",Argentina,Argentina,Italy,Italy,Actual Time,3
+1982,348,Second group stage,Germany,0,0,England,1982,June,29,false,draw,"",Draw,"",Draw,Actual Time,0
+1982,349,Second group stage,Austria,2,2,Northern Ireland,1982,July,1,false,draw,"",Draw,"",Draw,Actual Time,4
+1982,350,Second group stage,Belgium,0,1,Russia,1982,July,1,false,"",Belgium,Belgium,Russia,Russia,Actual Time,1
+1982,351,Second group stage,Argentina,1,3,Brazil,1982,July,2,false,"",Argentina,Argentina,Brazil,Brazil,Actual Time,4
+1982,352,Second group stage,Spain,1,2,Germany,1982,July,2,true,"",Spain,Spain,Germany,Germany,Actual Time,3
+1982,353,Second group stage,France,4,1,Northern Ireland,1982,July,4,false,"",Northern Ireland,Northern Ireland,France,France,Actual Time,5
+1982,354,Second group stage,Poland,0,0,Russia,1982,July,4,false,draw,"",Draw,"",Draw,Actual Time,0
+1982,355,Second group stage,Italy,3,2,Brazil,1982,July,5,false,"",Brazil,Brazil,Italy,Italy,Actual Time,5
+1982,356,Second group stage,Spain,0,0,England,1982,July,5,true,draw,"",Draw,"",Draw,Actual Time,0
+1982,357,Semi-finals,Poland,0,2,Italy,1982,July,8,false,"",Poland,Poland,Italy,Italy,Actual Time,2
+1982,358,Semi-finals,Germany,3,3,France,1982,July,8,false,,France,Draw,Germany,Draw,Germany win on penalties (5 - 4),6
+1982,359,Third place,Poland,3,2,France,1982,July,10,false,"",France,France,Poland,Poland,Actual Time,5
+1982,360,Final,Italy,3,1,Germany,1982,July,11,false,"",Germany,Germany,Italy,Italy,Actual Time,4
+1986,361,Group stage,Bulgaria,1,1,Italy,1986,May,31,false,draw,"",Draw,"",Draw,Actual Time,2
+1986,362,Group stage,Spain,0,1,Brazil,1986,June,1,false,"",Spain,Spain,Brazil,Brazil,Actual Time,1
+1986,363,Group stage,Canada,0,1,France,1986,June,1,false,"",Canada,Canada,France,France,Actual Time,1
+1986,364,Group stage,Russia,6,0,Hungary,1986,June,2,false,"",Hungary,Hungary,Russia,Russia,Actual Time,6
+1986,365,Group stage,Argentina,3,1,South Korea,1986,June,2,false,"",South Korea,South Korea,Argentina,Argentina,Actual Time,4
+1986,366,Group stage,Morocco,0,0,Poland,1986,June,2,false,draw,"",Draw,"",Draw,Actual Time,0
+1986,367,Group stage,Algeria,1,1,Northern Ireland,1986,June,3,false,draw,"",Draw,"",Draw,Actual Time,2
+1986,368,Group stage,Mexico,2,1,Belgium,1986,June,3,true,"",Belgium,Belgium,Mexico,Mexico,Actual Time,3
+1986,369,Group stage,Portugal,1,0,England,1986,June,3,false,"",England,England,Portugal,Portugal,Actual Time,1
+1986,370,Group stage,Paraguay,1,0,Iraq,1986,June,4,false,"",Iraq,Iraq,Paraguay,Paraguay,Actual Time,1
+1986,371,Group stage,Uruguay,1,1,Germany,1986,June,4,false,draw,"",Draw,"",Draw,Actual Time,2
+1986,372,Group stage,Scotland,0,1,Denmark,1986,June,4,false,"",Scotland,Scotland,Denmark,Denmark,Actual Time,1
+1986,373,Group stage,Italy,1,1,Argentina,1986,June,5,false,draw,"",Draw,"",Draw,Actual Time,2
+1986,374,Group stage,France,1,1,Russia,1986,June,5,false,draw,"",Draw,"",Draw,Actual Time,2
+1986,375,Group stage,South Korea,1,1,Bulgaria,1986,June,5,false,draw,"",Draw,"",Draw,Actual Time,2
+1986,376,Group stage,Hungary,2,0,Canada,1986,June,6,false,"",Canada,Canada,Hungary,Hungary,Actual Time,2
+1986,377,Group stage,Brazil,1,0,Algeria,1986,June,6,false,"",Algeria,Algeria,Brazil,Brazil,Actual Time,1
+1986,378,Group stage,England,0,0,Morocco,1986,June,6,false,draw,"",Draw,"",Draw,Actual Time,0
+1986,379,Group stage,Northern Ireland,1,2,Spain,1986,June,7,false,"",Northern Ireland,Northern Ireland,Spain,Spain,Actual Time,3
+1986,380,Group stage,Mexico,1,1,Paraguay,1986,June,7,true,draw,"",Draw,"",Draw,Actual Time,2
+1986,381,Group stage,Poland,1,0,Portugal,1986,June,7,false,"",Portugal,Portugal,Poland,Poland,Actual Time,1
+1986,382,Group stage,Iraq,1,2,Belgium,1986,June,8,false,"",Iraq,Iraq,Belgium,Belgium,Actual Time,3
+1986,383,Group stage,Germany,2,1,Scotland,1986,June,8,false,"",Scotland,Scotland,Germany,Germany,Actual Time,3
+1986,384,Group stage,Denmark,6,1,Uruguay,1986,June,8,false,"",Uruguay,Uruguay,Denmark,Denmark,Actual Time,7
+1986,385,Group stage,Hungary,0,3,France,1986,June,9,false,"",Hungary,Hungary,France,France,Actual Time,3
+1986,386,Group stage,Russia,2,0,Canada,1986,June,9,false,"",Canada,Canada,Russia,Russia,Actual Time,2
+1986,387,Group stage,South Korea,2,3,Italy,1986,June,10,false,"",South Korea,South Korea,Italy,Italy,Actual Time,5
+1986,388,Group stage,Argentina,2,0,Bulgaria,1986,June,10,false,"",Bulgaria,Bulgaria,Argentina,Argentina,Actual Time,2
+1986,389,Group stage,Paraguay,2,2,Belgium,1986,June,11,false,draw,"",Draw,"",Draw,Actual Time,4
+1986,390,Group stage,Mexico,1,0,Iraq,1986,June,11,true,"",Iraq,Iraq,Mexico,Mexico,Actual Time,1
+1986,391,Group stage,Portugal,1,3,Morocco,1986,June,11,false,"",Portugal,Portugal,Morocco,Morocco,Actual Time,4
+1986,392,Group stage,England,3,0,Poland,1986,June,11,false,"",Poland,Poland,England,England,Actual Time,3
+1986,393,Group stage,Northern Ireland,0,3,Brazil,1986,June,12,false,"",Northern Ireland,Northern Ireland,Brazil,Brazil,Actual Time,3
+1986,394,Group stage,Algeria,0,3,Spain,1986,June,12,false,"",Algeria,Algeria,Spain,Spain,Actual Time,3
+1986,395,Group stage,Scotland,0,0,Uruguay,1986,June,13,false,draw,"",Draw,"",Draw,Actual Time,0
+1986,396,Group stage,Denmark,2,0,Germany,1986,June,13,false,"",Germany,Germany,Denmark,Denmark,Actual Time,2
+1986,397,Round of 16,Mexico,2,0,Bulgaria,1986,June,15,true,"",Bulgaria,Bulgaria,Mexico,Mexico,Actual Time,2
+1986,398,Round of 16,Russia,3,4,Belgium,1986,June,15,false,"",Russia,Russia,Belgium,Belgium,Extra time,7
+1986,399,Round of 16,Brazil,4,0,Poland,1986,June,16,false,"",Poland,Poland,Brazil,Brazil,Actual Time,4
+1986,400,Round of 16,Argentina,1,0,Uruguay,1986,June,16,false,"",Uruguay,Uruguay,Argentina,Argentina,Actual Time,1
+1986,401,Round of 16,Italy,0,2,France,1986,June,17,false,"",Italy,Italy,France,France,Actual Time,2
+1986,402,Round of 16,Morocco,0,1,Germany,1986,June,17,false,"",Morocco,Morocco,Germany,Germany,Actual Time,1
+1986,403,Round of 16,England,3,0,Paraguay,1986,June,18,false,"",Paraguay,Paraguay,England,England,Actual Time,3
+1986,404,Round of 16,Denmark,1,5,Spain,1986,June,18,false,"",Denmark,Denmark,Spain,Spain,Actual Time,6
+1986,405,Quarter-finals,Brazil,1,1,France,1986,June,21,false,,Brazil,Draw,France,Draw,France win on penalties (3 - 4),2
+1986,406,Quarter-finals,Mexico,0,0,Germany,1986,June,21,true,,Mexico,Draw,Germany,Draw,Germany win on penalties (4 - 1),0
+1986,407,Quarter-finals,Argentina,2,1,England,1986,June,22,false,"",England,England,Argentina,Argentina,Actual Time,3
+1986,408,Quarter-finals,Spain,1,1,Belgium,1986,June,22,false,,Spain,Draw,Belgium,Draw,Belgium win on penalties (4 - 5),2
+1986,409,Semi-finals,France,0,2,Germany,1986,June,25,false,"",France,France,Germany,Germany,Actual Time,2
+1986,410,Semi-finals,Argentina,2,0,Belgium,1986,June,25,false,"",Belgium,Belgium,Argentina,Argentina,Actual Time,2
+1986,411,Third place,France,4,2,Belgium,1986,June,28,false,"",Belgium,Belgium,France,France,Extra time,6
+1986,412,Final,Argentina,3,2,Germany,1986,June,29,false,"",Germany,Germany,Argentina,Argentina,Actual Time,5
+1990,413,Group stage,Argentina,0,1,Cameroon,1990,June,8,false,"",Argentina,Argentina,Cameroon,Cameroon,Actual Time,1
+1990,414,Group stage,Russia,0,2,Romania,1990,June,9,false,"",Russia,Russia,Romania,Romania,Actual Time,2
+1990,415,Group stage,United Arab Emirates,0,2,Colombia,1990,June,9,false,"",United Arab Emirates,United Arab Emirates,Colombia,Colombia,Actual Time,2
+1990,416,Group stage,Italy,1,0,Austria,1990,June,9,true,"",Austria,Austria,Italy,Italy,Actual Time,1
+1990,417,Group stage,United States,1,5,Czechoslovakia,1990,June,10,false,"",United States,United States,Czechoslovakia,Czechoslovakia,Actual Time,6
+1990,418,Group stage,Brazil,2,1,Sweden,1990,June,10,false,"",Sweden,Sweden,Brazil,Brazil,Actual Time,3
+1990,419,Group stage,Germany,4,1,Yugoslavia,1990,June,10,false,"",Yugoslavia,Yugoslavia,Germany,Germany,Actual Time,5
+1990,420,Group stage,Costa Rica,1,0,Scotland,1990,June,11,false,"",Scotland,Scotland,Costa Rica,Costa Rica,Actual Time,1
+1990,421,Group stage,England,1,1,Republic of Ireland,1990,June,11,false,draw,"",Draw,"",Draw,Actual Time,2
+1990,422,Group stage,Belgium,2,0,South Korea,1990,June,12,false,"",South Korea,South Korea,Belgium,Belgium,Actual Time,2
+1990,423,Group stage,Netherlands,1,1,Egypt,1990,June,12,false,draw,"",Draw,"",Draw,Actual Time,2
+1990,424,Group stage,Uruguay,0,0,Spain,1990,June,13,false,draw,"",Draw,"",Draw,Actual Time,0
+1990,425,Group stage,Argentina,2,0,Russia,1990,June,13,false,"",Russia,Russia,Argentina,Argentina,Actual Time,2
+1990,426,Group stage,Cameroon,2,1,Romania,1990,June,14,false,"",Romania,Romania,Cameroon,Cameroon,Actual Time,3
+1990,427,Group stage,Yugoslavia,1,0,Colombia,1990,June,14,false,"",Colombia,Colombia,Yugoslavia,Yugoslavia,Actual Time,1
+1990,428,Group stage,Italy,1,0,United States,1990,June,14,true,"",United States,United States,Italy,Italy,Actual Time,1
+1990,429,Group stage,Austria,0,1,Czechoslovakia,1990,June,15,false,"",Austria,Austria,Czechoslovakia,Czechoslovakia,Actual Time,1
+1990,430,Group stage,Germany,5,1,United Arab Emirates,1990,June,15,false,"",United Arab Emirates,United Arab Emirates,Germany,Germany,Actual Time,6
+1990,431,Group stage,Brazil,1,0,Costa Rica,1990,June,16,false,"",Costa Rica,Costa Rica,Brazil,Brazil,Actual Time,1
+1990,432,Group stage,Sweden,1,2,Scotland,1990,June,16,false,"",Sweden,Sweden,Scotland,Scotland,Actual Time,3
+1990,433,Group stage,England,0,0,Netherlands,1990,June,16,false,draw,"",Draw,"",Draw,Actual Time,0
+1990,434,Group stage,Republic of Ireland,0,0,Egypt,1990,June,17,false,draw,"",Draw,"",Draw,Actual Time,0
+1990,435,Group stage,South Korea,1,3,Spain,1990,June,17,false,"",South Korea,South Korea,Spain,Spain,Actual Time,4
+1990,436,Group stage,Belgium,3,1,Uruguay,1990,June,17,false,"",Uruguay,Uruguay,Belgium,Belgium,Actual Time,4
+1990,437,Group stage,Argentina,1,1,Romania,1990,June,18,false,draw,"",Draw,"",Draw,Actual Time,2
+1990,438,Group stage,Cameroon,0,4,Russia,1990,June,18,false,"",Cameroon,Cameroon,Russia,Russia,Actual Time,4
+1990,439,Group stage,Germany,1,1,Colombia,1990,June,19,false,draw,"",Draw,"",Draw,Actual Time,2
+1990,440,Group stage,Yugoslavia,4,1,United Arab Emirates,1990,June,19,false,"",United Arab Emirates,United Arab Emirates,Yugoslavia,Yugoslavia,Actual Time,5
+1990,441,Group stage,Italy,2,0,Czechoslovakia,1990,June,19,true,"",Czechoslovakia,Czechoslovakia,Italy,Italy,Actual Time,2
+1990,442,Group stage,Austria,2,1,United States,1990,June,19,false,"",United States,United States,Austria,Austria,Actual Time,3
+1990,443,Group stage,Brazil,1,0,Scotland,1990,June,20,false,"",Scotland,Scotland,Brazil,Brazil,Actual Time,1
+1990,444,Group stage,Sweden,1,2,Costa Rica,1990,June,20,false,"",Sweden,Sweden,Costa Rica,Costa Rica,Actual Time,3
+1990,445,Group stage,South Korea,0,1,Uruguay,1990,June,21,false,"",South Korea,South Korea,Uruguay,Uruguay,Actual Time,1
+1990,446,Group stage,Belgium,1,2,Spain,1990,June,21,false,"",Belgium,Belgium,Spain,Spain,Actual Time,3
+1990,447,Group stage,Republic of Ireland,1,1,Netherlands,1990,June,21,false,draw,"",Draw,"",Draw,Actual Time,2
+1990,448,Group stage,England,1,0,Egypt,1990,June,21,false,"",Egypt,Egypt,England,England,Actual Time,1
+1990,449,Round of 16,Cameroon,2,1,Colombia,1990,June,23,false,"",Colombia,Colombia,Cameroon,Cameroon,Extra time,3
+1990,450,Round of 16,Czechoslovakia,4,1,Costa Rica,1990,June,23,false,"",Costa Rica,Costa Rica,Czechoslovakia,Czechoslovakia,Actual Time,5
+1990,451,Round of 16,Brazil,0,1,Argentina,1990,June,24,false,"",Brazil,Brazil,Argentina,Argentina,Actual Time,1
+1990,452,Round of 16,Germany,2,1,Netherlands,1990,June,24,false,"",Netherlands,Netherlands,Germany,Germany,Actual Time,3
+1990,453,Round of 16,Republic of Ireland,0,0,Romania,1990,June,25,false,,Romania,Draw,Republic of Ireland,Draw,Republic of Ireland win on penalties (5 - 4),0
+1990,454,Round of 16,Italy,2,0,Uruguay,1990,June,25,true,"",Uruguay,Uruguay,Italy,Italy,Actual Time,2
+1990,455,Round of 16,Spain,1,2,Yugoslavia,1990,June,26,false,"",Spain,Spain,Yugoslavia,Yugoslavia,Extra time,3
+1990,456,Round of 16,England,1,0,Belgium,1990,June,26,false,"",Belgium,Belgium,England,England,Extra time,1
+1990,457,Quarter-finals,Yugoslavia,0,0,Argentina,1990,June,30,false,,Yugoslavia,Draw,Argentina,Draw,Argentina win on penalties (2 - 3),0
+1990,458,Quarter-finals,Italy,1,0,Republic of Ireland,1990,June,30,true,"",Republic of Ireland,Republic of Ireland,Italy,Italy,Actual Time,1
+1990,459,Quarter-finals,Germany,1,0,Czechoslovakia,1990,July,1,false,"",Czechoslovakia,Czechoslovakia,Germany,Germany,Actual Time,1
+1990,460,Quarter-finals,England,3,2,Cameroon,1990,July,1,false,"",Cameroon,Cameroon,England,England,Extra time,5
+1990,461,Semi-finals,Italy,1,1,Argentina,1990,July,3,true,,Italy,Draw,Argentina,Draw,Argentina win on penalties (3 - 4),2
+1990,462,Semi-finals,Germany,1,1,England,1990,July,4,false,,England,Draw,Germany,Draw,Germany win on penalties (4 - 3),2
+1990,463,Third place,Italy,2,1,England,1990,July,7,true,"",England,England,Italy,Italy,Actual Time,3
+1990,464,Final,Germany,1,0,Argentina,1990,July,8,false,"",Argentina,Argentina,Germany,Germany,Actual Time,1
+1994,465,Group stage,Germany,1,0,Bolivia,1994,June,17,false,"",Bolivia,Bolivia,Germany,Germany,Actual Time,1
+1994,466,Group stage,Spain,2,2,South Korea,1994,June,17,false,draw,"",Draw,"",Draw,Actual Time,4
+1994,467,Group stage,United States,1,1,Switzerland,1994,June,18,true,draw,"",Draw,"",Draw,Actual Time,2
+1994,468,Group stage,Italy,0,1,Republic of Ireland,1994,June,18,false,"",Italy,Italy,Republic of Ireland,Republic of Ireland,Actual Time,1
+1994,469,Group stage,Colombia,1,3,Romania,1994,June,18,false,"",Colombia,Colombia,Romania,Romania,Actual Time,4
+1994,470,Group stage,Belgium,1,0,Morocco,1994,June,19,false,"",Morocco,Morocco,Belgium,Belgium,Actual Time,1
+1994,471,Group stage,Norway,1,0,Mexico,1994,June,19,false,"",Mexico,Mexico,Norway,Norway,Actual Time,1
+1994,472,Group stage,Cameroon,2,2,Sweden,1994,June,19,false,draw,"",Draw,"",Draw,Actual Time,4
+1994,473,Group stage,Brazil,2,0,Russia,1994,June,20,false,"",Russia,Russia,Brazil,Brazil,Actual Time,2
+1994,474,Group stage,Netherlands,2,1,Saudi Arabia,1994,June,20,false,"",Saudi Arabia,Saudi Arabia,Netherlands,Netherlands,Actual Time,3
+1994,475,Group stage,Argentina,4,0,Greece,1994,June,21,false,"",Greece,Greece,Argentina,Argentina,Actual Time,4
+1994,476,Group stage,Germany,1,1,Spain,1994,June,21,false,draw,"",Draw,"",Draw,Actual Time,2
+1994,477,Group stage,Nigeria,3,0,Bulgaria,1994,June,21,false,"",Bulgaria,Bulgaria,Nigeria,Nigeria,Actual Time,3
+1994,478,Group stage,Romania,1,4,Switzerland,1994,June,22,false,"",Romania,Romania,Switzerland,Switzerland,Actual Time,5
+1994,479,Group stage,United States,2,1,Colombia,1994,June,22,true,"",Colombia,Colombia,United States,United States,Actual Time,3
+1994,480,Group stage,Italy,1,0,Norway,1994,June,23,false,"",Norway,Norway,Italy,Italy,Actual Time,1
+1994,481,Group stage,South Korea,0,0,Bolivia,1994,June,23,false,draw,"",Draw,"",Draw,Actual Time,0
+1994,482,Group stage,Mexico,2,1,Republic of Ireland,1994,June,24,false,"",Republic of Ireland,Republic of Ireland,Mexico,Mexico,Actual Time,3
+1994,483,Group stage,Brazil,3,0,Cameroon,1994,June,24,false,"",Cameroon,Cameroon,Brazil,Brazil,Actual Time,3
+1994,484,Group stage,Sweden,3,1,Russia,1994,June,24,false,"",Russia,Russia,Sweden,Sweden,Actual Time,4
+1994,485,Group stage,Belgium,1,0,Netherlands,1994,June,25,false,"",Netherlands,Netherlands,Belgium,Belgium,Actual Time,1
+1994,486,Group stage,Saudi Arabia,2,1,Morocco,1994,June,25,false,"",Morocco,Morocco,Saudi Arabia,Saudi Arabia,Actual Time,3
+1994,487,Group stage,Argentina,2,1,Nigeria,1994,June,25,false,"",Nigeria,Nigeria,Argentina,Argentina,Actual Time,3
+1994,488,Group stage,Bulgaria,4,0,Greece,1994,June,26,false,"",Greece,Greece,Bulgaria,Bulgaria,Actual Time,4
+1994,489,Group stage,United States,0,1,Romania,1994,June,26,true,"",United States,United States,Romania,Romania,Actual Time,1
+1994,490,Group stage,Switzerland,0,2,Colombia,1994,June,26,false,"",Switzerland,Switzerland,Colombia,Colombia,Actual Time,2
+1994,491,Group stage,Germany,3,2,South Korea,1994,June,27,false,"",South Korea,South Korea,Germany,Germany,Actual Time,5
+1994,492,Group stage,Bolivia,1,3,Spain,1994,June,27,false,"",Bolivia,Bolivia,Spain,Spain,Actual Time,4
+1994,493,Group stage,Republic of Ireland,0,0,Norway,1994,June,28,false,draw,"",Draw,"",Draw,Actual Time,0
+1994,494,Group stage,Italy,1,1,Mexico,1994,June,28,false,draw,"",Draw,"",Draw,Actual Time,2
+1994,495,Group stage,Brazil,1,1,Sweden,1994,June,28,false,draw,"",Draw,"",Draw,Actual Time,2
+1994,496,Group stage,Russia,6,1,Cameroon,1994,June,28,false,"",Cameroon,Cameroon,Russia,Russia,Actual Time,7
+1994,497,Group stage,Morocco,1,2,Netherlands,1994,June,29,false,"",Morocco,Morocco,Netherlands,Netherlands,Actual Time,3
+1994,498,Group stage,Belgium,0,1,Saudi Arabia,1994,June,29,false,"",Belgium,Belgium,Saudi Arabia,Saudi Arabia,Actual Time,1
+1994,499,Group stage,Greece,0,2,Nigeria,1994,June,30,false,"",Greece,Greece,Nigeria,Nigeria,Actual Time,2
+1994,500,Group stage,Argentina,0,2,Bulgaria,1994,June,30,false,"",Argentina,Argentina,Bulgaria,Bulgaria,Actual Time,2
+1994,501,Round of 16,Germany,3,2,Belgium,1994,July,2,false,"",Belgium,Belgium,Germany,Germany,Actual Time,5
+1994,502,Round of 16,Spain,3,0,Switzerland,1994,July,2,false,"",Switzerland,Switzerland,Spain,Spain,Actual Time,3
+1994,503,Round of 16,Saudi Arabia,1,3,Sweden,1994,July,3,false,"",Saudi Arabia,Saudi Arabia,Sweden,Sweden,Actual Time,4
+1994,504,Round of 16,Romania,3,2,Argentina,1994,July,3,false,"",Argentina,Argentina,Romania,Romania,Actual Time,5
+1994,505,Round of 16,Netherlands,2,0,Republic of Ireland,1994,July,4,false,"",Republic of Ireland,Republic of Ireland,Netherlands,Netherlands,Actual Time,2
+1994,506,Round of 16,United States,0,1,Brazil,1994,July,4,true,"",United States,United States,Brazil,Brazil,Actual Time,1
+1994,507,Round of 16,Nigeria,1,2,Italy,1994,July,5,false,"",Nigeria,Nigeria,Italy,Italy,Extra time,3
+1994,508,Round of 16,Mexico,1,1,Bulgaria,1994,July,5,false,,Mexico,Draw,Bulgaria,Draw,Bulgaria win on penalties (1 - 3),2
+1994,509,Quarter-finals,Italy,2,1,Spain,1994,July,9,false,"",Spain,Spain,Italy,Italy,Actual Time,3
+1994,510,Quarter-finals,Netherlands,2,3,Brazil,1994,July,9,false,"",Netherlands,Netherlands,Brazil,Brazil,Actual Time,5
+1994,511,Quarter-finals,Bulgaria,2,1,Germany,1994,July,10,false,"",Germany,Germany,Bulgaria,Bulgaria,Actual Time,3
+1994,512,Quarter-finals,Romania,2,2,Sweden,1994,July,10,false,,Romania,Draw,Sweden,Draw,Sweden win on penalties (4 - 5),4
+1994,513,Semi-finals,Bulgaria,1,2,Italy,1994,July,13,false,"",Bulgaria,Bulgaria,Italy,Italy,Actual Time,3
+1994,514,Semi-finals,Sweden,0,1,Brazil,1994,July,13,false,"",Sweden,Sweden,Brazil,Brazil,Actual Time,1
+1994,515,Third place,Sweden,4,0,Bulgaria,1994,July,16,false,"",Bulgaria,Bulgaria,Sweden,Sweden,Actual Time,4
+1994,516,Final,Brazil,0,0,Italy,1994,July,17,false,,Italy,Draw,Brazil,Draw,Brazil win on penalties (3 - 2),0
+1998,517,Group stage,Brazil,2,1,Scotland,1998,June,10,false,"",Scotland,Scotland,Brazil,Brazil,Actual Time,3
+1998,518,Group stage,Morocco,2,2,Norway,1998,June,10,false,draw,"",Draw,"",Draw,Actual Time,4
+1998,519,Group stage,Italy,2,2,Chile,1998,June,11,false,draw,"",Draw,"",Draw,Actual Time,4
+1998,520,Group stage,Cameroon,1,1,Austria,1998,June,11,false,draw,"",Draw,"",Draw,Actual Time,2
+1998,521,Group stage,Paraguay,0,0,Bulgaria,1998,June,12,false,draw,"",Draw,"",Draw,Actual Time,0
+1998,522,Group stage,Saudi Arabia,0,1,Denmark,1998,June,12,false,"",Saudi Arabia,Saudi Arabia,Denmark,Denmark,Actual Time,1
+1998,523,Group stage,France,3,0,South Africa,1998,June,12,true,"",South Africa,South Africa,France,France,Actual Time,3
+1998,524,Group stage,Spain,2,3,Nigeria,1998,June,13,false,"",Spain,Spain,Nigeria,Nigeria,Actual Time,5
+1998,525,Group stage,South Korea,1,3,Mexico,1998,June,13,false,"",South Korea,South Korea,Mexico,Mexico,Actual Time,4
+1998,526,Group stage,Netherlands,0,0,Belgium,1998,June,13,false,draw,"",Draw,"",Draw,Actual Time,0
+1998,527,Group stage,Argentina,1,0,Japan,1998,June,14,false,"",Japan,Japan,Argentina,Argentina,Actual Time,1
+1998,528,Group stage,Yugoslavia,1,0,Iran,1998,June,14,false,"",Iran,Iran,Yugoslavia,Yugoslavia,Actual Time,1
+1998,529,Group stage,Jamaica,1,3,Croatia,1998,June,14,false,"",Jamaica,Jamaica,Croatia,Croatia,Actual Time,4
+1998,530,Group stage,England,2,0,Tunisia,1998,June,15,false,"",Tunisia,Tunisia,England,England,Actual Time,2
+1998,531,Group stage,Romania,1,0,Colombia,1998,June,15,false,"",Colombia,Colombia,Romania,Romania,Actual Time,1
+1998,532,Group stage,Germany,2,0,United States,1998,June,15,false,"",United States,United States,Germany,Germany,Actual Time,2
+1998,533,Group stage,Scotland,1,1,Norway,1998,June,16,false,draw,"",Draw,"",Draw,Actual Time,2
+1998,534,Group stage,Brazil,3,0,Morocco,1998,June,16,false,"",Morocco,Morocco,Brazil,Brazil,Actual Time,3
+1998,535,Group stage,Chile,1,1,Austria,1998,June,17,false,draw,"",Draw,"",Draw,Actual Time,2
+1998,536,Group stage,Italy,3,0,Cameroon,1998,June,17,false,"",Cameroon,Cameroon,Italy,Italy,Actual Time,3
+1998,537,Group stage,South Africa,1,1,Denmark,1998,June,18,false,draw,"",Draw,"",Draw,Actual Time,2
+1998,538,Group stage,France,4,0,Saudi Arabia,1998,June,18,true,"",Saudi Arabia,Saudi Arabia,France,France,Actual Time,4
+1998,539,Group stage,Nigeria,1,0,Bulgaria,1998,June,19,false,"",Bulgaria,Bulgaria,Nigeria,Nigeria,Actual Time,1
+1998,540,Group stage,Spain,0,0,Paraguay,1998,June,19,false,draw,"",Draw,"",Draw,Actual Time,0
+1998,541,Group stage,Japan,0,1,Croatia,1998,June,20,false,"",Japan,Japan,Croatia,Croatia,Actual Time,1
+1998,542,Group stage,Belgium,2,2,Mexico,1998,June,20,false,draw,"",Draw,"",Draw,Actual Time,4
+1998,543,Group stage,Netherlands,5,0,South Korea,1998,June,20,false,"",South Korea,South Korea,Netherlands,Netherlands,Actual Time,5
+1998,544,Group stage,Germany,2,2,Yugoslavia,1998,June,21,false,draw,"",Draw,"",Draw,Actual Time,4
+1998,545,Group stage,Argentina,5,0,Jamaica,1998,June,21,false,"",Jamaica,Jamaica,Argentina,Argentina,Actual Time,5
+1998,546,Group stage,United States,1,2,Iran,1998,June,21,false,"",United States,United States,Iran,Iran,Actual Time,3
+1998,547,Group stage,Colombia,1,0,Tunisia,1998,June,22,false,"",Tunisia,Tunisia,Colombia,Colombia,Actual Time,1
+1998,548,Group stage,Romania,2,1,England,1998,June,22,false,"",England,England,Romania,Romania,Actual Time,3
+1998,549,Group stage,Italy,2,1,Austria,1998,June,23,false,"",Austria,Austria,Italy,Italy,Actual Time,3
+1998,550,Group stage,Chile,1,1,Cameroon,1998,June,23,false,draw,"",Draw,"",Draw,Actual Time,2
+1998,551,Group stage,Scotland,0,3,Morocco,1998,June,23,false,"",Scotland,Scotland,Morocco,Morocco,Actual Time,3
+1998,552,Group stage,Brazil,1,2,Norway,1998,June,23,false,"",Brazil,Brazil,Norway,Norway,Actual Time,3
+1998,553,Group stage,France,2,1,Denmark,1998,June,24,true,"",Denmark,Denmark,France,France,Actual Time,3
+1998,554,Group stage,South Africa,2,2,Saudi Arabia,1998,June,24,false,draw,"",Draw,"",Draw,Actual Time,4
+1998,555,Group stage,Spain,6,1,Bulgaria,1998,June,24,false,"",Bulgaria,Bulgaria,Spain,Spain,Actual Time,7
+1998,556,Group stage,Nigeria,1,3,Paraguay,1998,June,24,false,"",Nigeria,Nigeria,Paraguay,Paraguay,Actual Time,4
+1998,557,Group stage,Belgium,1,1,South Korea,1998,June,25,false,draw,"",Draw,"",Draw,Actual Time,2
+1998,558,Group stage,Netherlands,2,2,Mexico,1998,June,25,false,draw,"",Draw,"",Draw,Actual Time,4
+1998,559,Group stage,Germany,2,0,Iran,1998,June,25,false,"",Iran,Iran,Germany,Germany,Actual Time,2
+1998,560,Group stage,United States,0,1,Yugoslavia,1998,June,25,false,"",United States,United States,Yugoslavia,Yugoslavia,Actual Time,1
+1998,561,Group stage,Japan,1,2,Jamaica,1998,June,26,false,"",Japan,Japan,Jamaica,Jamaica,Actual Time,3
+1998,562,Group stage,Argentina,1,0,Croatia,1998,June,26,false,"",Croatia,Croatia,Argentina,Argentina,Actual Time,1
+1998,563,Group stage,Romania,1,1,Tunisia,1998,June,26,false,draw,"",Draw,"",Draw,Actual Time,2
+1998,564,Group stage,Colombia,0,2,England,1998,June,26,false,"",Colombia,Colombia,England,England,Actual Time,2
+1998,565,Round of 16,Italy,1,0,Norway,1998,June,27,false,"",Norway,Norway,Italy,Italy,Actual Time,1
+1998,566,Round of 16,Brazil,4,1,Chile,1998,June,27,false,"",Chile,Chile,Brazil,Brazil,Actual Time,5
+1998,567,Round of 16,France,1,0,Paraguay,1998,June,28,true,"",Paraguay,Paraguay,France,France,Extra time,1
+1998,568,Round of 16,Nigeria,1,4,Denmark,1998,June,28,false,"",Nigeria,Nigeria,Denmark,Denmark,Actual Time,5
+1998,569,Round of 16,Germany,2,1,Mexico,1998,June,29,false,"",Mexico,Mexico,Germany,Germany,Actual Time,3
+1998,570,Round of 16,Netherlands,2,1,Yugoslavia,1998,June,29,false,"",Yugoslavia,Yugoslavia,Netherlands,Netherlands,Actual Time,3
+1998,571,Round of 16,Romania,0,1,Croatia,1998,June,30,false,"",Romania,Romania,Croatia,Croatia,Actual Time,1
+1998,572,Round of 16,Argentina,2,2,England,1998,June,30,false,,England,Draw,Argentina,Draw,Argentina win on penalties (4 - 3),4
+1998,573,Quarter-finals,France,0,0,Italy,1998,July,3,true,,Italy,Draw,France,Draw,France win on penalties (3 - 4),0
+1998,574,Quarter-finals,Brazil,3,2,Denmark,1998,July,3,false,"",Denmark,Denmark,Brazil,Brazil,Actual Time,5
+1998,575,Quarter-finals,Netherlands,2,1,Argentina,1998,July,4,false,"",Argentina,Argentina,Netherlands,Netherlands,Actual Time,3
+1998,576,Quarter-finals,Germany,0,3,Croatia,1998,July,4,false,"",Germany,Germany,Croatia,Croatia,Actual Time,3
+1998,577,Semi-finals,Brazil,1,1,Netherlands,1998,July,7,false,,Netherlands,Draw,Brazil,Draw,Brazil win on penalties (4 - 2),2
+1998,578,Semi-finals,France,2,1,Croatia,1998,July,8,true,"",Croatia,Croatia,France,France,Actual Time,3
+1998,579,Third place,Netherlands,1,2,Croatia,1998,July,11,false,"",Netherlands,Netherlands,Croatia,Croatia,Actual Time,3
+1998,580,Final,France,3,0,Brazil,1998,July,12,true,"",Brazil,Brazil,France,France,Actual Time,3
+2002,581,Group stage,France,0,1,Senegal,2002,May,31,false,"",France,France,Senegal,Senegal,Actual Time,1
+2002,582,Group stage,Republic of Ireland,1,1,Cameroon,2002,June,1,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,583,Group stage,Uruguay,1,2,Denmark,2002,June,1,false,"",Uruguay,Uruguay,Denmark,Denmark,Actual Time,3
+2002,584,Group stage,Germany,8,0,Saudi Arabia,2002,June,1,false,"",Saudi Arabia,Saudi Arabia,Germany,Germany,Actual Time,8
+2002,585,Group stage,Argentina,1,0,Nigeria,2002,June,2,false,"",Nigeria,Nigeria,Argentina,Argentina,Actual Time,1
+2002,586,Group stage,Paraguay,2,2,South Africa,2002,June,2,false,draw,"",Draw,"",Draw,Actual Time,4
+2002,587,Group stage,England,1,1,Sweden,2002,June,2,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,588,Group stage,Spain,3,1,Slovenia,2002,June,2,false,"",Slovenia,Slovenia,Spain,Spain,Actual Time,4
+2002,589,Group stage,Croatia,0,1,Mexico,2002,June,3,false,"",Croatia,Croatia,Mexico,Mexico,Actual Time,1
+2002,590,Group stage,Brazil,2,1,Turkey,2002,June,3,false,"",Turkey,Turkey,Brazil,Brazil,Actual Time,3
+2002,591,Group stage,Italy,2,0,Ecuador,2002,June,3,false,"",Ecuador,Ecuador,Italy,Italy,Actual Time,2
+2002,592,Group stage,China,0,2,Costa Rica,2002,June,4,false,"",China,China,Costa Rica,Costa Rica,Actual Time,2
+2002,593,Group stage,Japan,2,2,Belgium,2002,June,4,true,draw,"",Draw,"",Draw,Actual Time,4
+2002,594,Group stage,South Korea,2,0,Poland,2002,June,4,true,"",Poland,Poland,South Korea,South Korea,Actual Time,2
+2002,595,Group stage,Russia,2,0,Tunisia,2002,June,5,false,"",Tunisia,Tunisia,Russia,Russia,Actual Time,2
+2002,596,Group stage,United States,3,2,Portugal,2002,June,5,false,"",Portugal,Portugal,United States,United States,Actual Time,5
+2002,597,Group stage,Germany,1,1,Republic of Ireland,2002,June,5,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,598,Group stage,Denmark,1,1,Senegal,2002,June,6,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,599,Group stage,Cameroon,1,0,Saudi Arabia,2002,June,6,false,"",Saudi Arabia,Saudi Arabia,Cameroon,Cameroon,Actual Time,1
+2002,600,Group stage,France,0,0,Uruguay,2002,June,6,false,draw,"",Draw,"",Draw,Actual Time,0
+2002,601,Group stage,Sweden,2,1,Nigeria,2002,June,7,false,"",Nigeria,Nigeria,Sweden,Sweden,Actual Time,3
+2002,602,Group stage,Spain,3,1,Paraguay,2002,June,7,false,"",Paraguay,Paraguay,Spain,Spain,Actual Time,4
+2002,603,Group stage,Argentina,0,1,England,2002,June,7,false,"",Argentina,Argentina,England,England,Actual Time,1
+2002,604,Group stage,South Africa,1,0,Slovenia,2002,June,8,false,"",Slovenia,Slovenia,South Africa,South Africa,Actual Time,1
+2002,605,Group stage,Italy,1,2,Croatia,2002,June,8,false,"",Italy,Italy,Croatia,Croatia,Actual Time,3
+2002,606,Group stage,Brazil,4,0,China,2002,June,8,false,"",China,China,Brazil,Brazil,Actual Time,4
+2002,607,Group stage,Mexico,2,1,Ecuador,2002,June,9,false,"",Ecuador,Ecuador,Mexico,Mexico,Actual Time,3
+2002,608,Group stage,Costa Rica,1,1,Turkey,2002,June,9,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,609,Group stage,Japan,1,0,Russia,2002,June,9,true,"",Russia,Russia,Japan,Japan,Actual Time,1
+2002,610,Group stage,South Korea,1,1,United States,2002,June,10,true,draw,"",Draw,"",Draw,Actual Time,2
+2002,611,Group stage,Tunisia,1,1,Belgium,2002,June,10,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,612,Group stage,Portugal,4,0,Poland,2002,June,10,false,"",Poland,Poland,Portugal,Portugal,Actual Time,4
+2002,613,Group stage,Denmark,2,0,France,2002,June,11,false,"",France,France,Denmark,Denmark,Actual Time,2
+2002,614,Group stage,Senegal,3,3,Uruguay,2002,June,11,false,draw,"",Draw,"",Draw,Actual Time,6
+2002,615,Group stage,Saudi Arabia,0,3,Republic of Ireland,2002,June,11,false,"",Saudi Arabia,Saudi Arabia,Republic of Ireland,Republic of Ireland,Actual Time,3
+2002,616,Group stage,Cameroon,0,2,Germany,2002,June,11,false,"",Cameroon,Cameroon,Germany,Germany,Actual Time,2
+2002,617,Group stage,Sweden,1,1,Argentina,2002,June,12,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,618,Group stage,Nigeria,0,0,England,2002,June,12,false,draw,"",Draw,"",Draw,Actual Time,0
+2002,619,Group stage,Slovenia,1,3,Paraguay,2002,June,12,false,"",Slovenia,Slovenia,Paraguay,Paraguay,Actual Time,4
+2002,620,Group stage,South Africa,2,3,Spain,2002,June,12,false,"",South Africa,South Africa,Spain,Spain,Actual Time,5
+2002,621,Group stage,Costa Rica,2,5,Brazil,2002,June,13,false,"",Costa Rica,Costa Rica,Brazil,Brazil,Actual Time,7
+2002,622,Group stage,Turkey,3,0,China,2002,June,13,false,"",China,China,Turkey,Turkey,Actual Time,3
+2002,623,Group stage,Ecuador,1,0,Croatia,2002,June,13,false,"",Croatia,Croatia,Ecuador,Ecuador,Actual Time,1
+2002,624,Group stage,Mexico,1,1,Italy,2002,June,13,false,draw,"",Draw,"",Draw,Actual Time,2
+2002,625,Group stage,Japan,2,0,Tunisia,2002,June,14,true,"",Tunisia,Tunisia,Japan,Japan,Actual Time,2
+2002,626,Group stage,Belgium,3,2,Russia,2002,June,14,false,"",Russia,Russia,Belgium,Belgium,Actual Time,5
+2002,627,Group stage,South Korea,1,0,Portugal,2002,June,14,true,"",Portugal,Portugal,South Korea,South Korea,Actual Time,1
+2002,628,Group stage,Poland,3,1,United States,2002,June,14,false,"",United States,United States,Poland,Poland,Actual Time,4
+2002,629,Round of 16,Germany,1,0,Paraguay,2002,June,15,false,"",Paraguay,Paraguay,Germany,Germany,Actual Time,1
+2002,630,Round of 16,Denmark,0,3,England,2002,June,15,false,"",Denmark,Denmark,England,England,Actual Time,3
+2002,631,Round of 16,Sweden,1,2,Senegal,2002,June,16,false,"",Sweden,Sweden,Senegal,Senegal,Golden goal,3
+2002,632,Round of 16,Spain,1,1,Republic of Ireland,2002,June,16,false,,Republic of Ireland,Draw,Spain,Draw,Spain win on penalties (3 - 2),2
+2002,633,Round of 16,Mexico,0,2,United States,2002,June,17,false,"",Mexico,Mexico,United States,United States,Actual Time,2
+2002,634,Round of 16,Brazil,2,0,Belgium,2002,June,17,false,"",Belgium,Belgium,Brazil,Brazil,Actual Time,2
+2002,635,Round of 16,Japan,0,1,Turkey,2002,June,18,true,"",Japan,Japan,Turkey,Turkey,Actual Time,1
+2002,636,Round of 16,South Korea,2,1,Italy,2002,June,18,true,"",Italy,Italy,South Korea,South Korea,Golden goal,3
+2002,637,Quarter-finals,England,1,2,Brazil,2002,June,21,false,"",England,England,Brazil,Brazil,Actual Time,3
+2002,638,Quarter-finals,Germany,1,0,United States,2002,June,21,false,"",United States,United States,Germany,Germany,Actual Time,1
+2002,639,Quarter-finals,South Korea,0,0,Spain,2002,June,22,true,,Spain,Draw,South Korea,Draw,South Korea win on penalties (3 - 5),0
+2002,640,Quarter-finals,Senegal,0,1,Turkey,2002,June,22,false,"",Senegal,Senegal,Turkey,Turkey,Golden goal,1
+2002,641,Semi-finals,South Korea,0,1,Germany,2002,June,25,true,"",South Korea,South Korea,Germany,Germany,Actual Time,1
+2002,642,Semi-finals,Brazil,1,0,Turkey,2002,June,26,false,"",Turkey,Turkey,Brazil,Brazil,Actual Time,1
+2002,643,Third place,South Korea,2,3,Turkey,2002,June,29,true,"",South Korea,South Korea,Turkey,Turkey,Actual Time,5
+2002,644,Final,Brazil,2,0,Germany,2002,June,30,false,"",Germany,Germany,Brazil,Brazil,Actual Time,2
+2006,645,Group stage,Germany,4,2,Costa Rica,2006,June,9,true,"",Costa Rica,Costa Rica,Germany,Germany,Actual Time,6
+2006,646,Group stage,Poland,0,2,Ecuador,2006,June,9,false,"",Poland,Poland,Ecuador,Ecuador,Actual Time,2
+2006,647,Group stage,England,1,0,Paraguay,2006,June,10,false,"",Paraguay,Paraguay,England,England,Actual Time,1
+2006,648,Group stage,Trinidad and Tobago,0,0,Sweden,2006,June,10,false,draw,"",Draw,"",Draw,Actual Time,0
+2006,649,Group stage,Argentina,2,1,Ivory Coast,2006,June,10,false,"",Ivory Coast,Ivory Coast,Argentina,Argentina,Actual Time,3
+2006,650,Group stage,Serbia,0,1,Netherlands,2006,June,11,false,"",Serbia,Serbia,Netherlands,Netherlands,Actual Time,1
+2006,651,Group stage,Mexico,3,1,Iran,2006,June,11,false,"",Iran,Iran,Mexico,Mexico,Actual Time,4
+2006,652,Group stage,Angola,0,1,Portugal,2006,June,11,false,"",Angola,Angola,Portugal,Portugal,Actual Time,1
+2006,653,Group stage,Australia,3,1,Japan,2006,June,12,false,"",Japan,Japan,Australia,Australia,Actual Time,4
+2006,654,Group stage,United States,0,3,Czech Republic,2006,June,12,false,"",United States,United States,Czech Republic,Czech Republic,Actual Time,3
+2006,655,Group stage,Italy,2,0,Ghana,2006,June,12,false,"",Ghana,Ghana,Italy,Italy,Actual Time,2
+2006,656,Group stage,South Korea,2,1,Togo,2006,June,13,false,"",Togo,Togo,South Korea,South Korea,Actual Time,3
+2006,657,Group stage,France,0,0,Switzerland,2006,June,13,false,draw,"",Draw,"",Draw,Actual Time,0
+2006,658,Group stage,Brazil,1,0,Croatia,2006,June,13,false,"",Croatia,Croatia,Brazil,Brazil,Actual Time,1
+2006,659,Group stage,Spain,4,0,Ukraine,2006,June,14,false,"",Ukraine,Ukraine,Spain,Spain,Actual Time,4
+2006,660,Group stage,Tunisia,2,2,Saudi Arabia,2006,June,14,false,draw,"",Draw,"",Draw,Actual Time,4
+2006,661,Group stage,Germany,1,0,Poland,2006,June,14,true,"",Poland,Poland,Germany,Germany,Actual Time,1
+2006,662,Group stage,Ecuador,3,0,Costa Rica,2006,June,15,false,"",Costa Rica,Costa Rica,Ecuador,Ecuador,Actual Time,3
+2006,663,Group stage,England,2,0,Trinidad and Tobago,2006,June,15,false,"",Trinidad and Tobago,Trinidad and Tobago,England,England,Actual Time,2
+2006,664,Group stage,Sweden,1,0,Paraguay,2006,June,15,false,"",Paraguay,Paraguay,Sweden,Sweden,Actual Time,1
+2006,665,Group stage,Argentina,6,0,Serbia,2006,June,16,false,"",Serbia,Serbia,Argentina,Argentina,Actual Time,6
+2006,666,Group stage,Netherlands,2,1,Ivory Coast,2006,June,16,false,"",Ivory Coast,Ivory Coast,Netherlands,Netherlands,Actual Time,3
+2006,667,Group stage,Mexico,0,0,Angola,2006,June,16,false,draw,"",Draw,"",Draw,Actual Time,0
+2006,668,Group stage,Portugal,2,0,Iran,2006,June,17,false,"",Iran,Iran,Portugal,Portugal,Actual Time,2
+2006,669,Group stage,Czech Republic,0,2,Ghana,2006,June,17,false,"",Czech Republic,Czech Republic,Ghana,Ghana,Actual Time,2
+2006,670,Group stage,Italy,1,1,United States,2006,June,17,false,draw,"",Draw,"",Draw,Actual Time,2
+2006,671,Group stage,Japan,0,0,Croatia,2006,June,18,false,draw,"",Draw,"",Draw,Actual Time,0
+2006,672,Group stage,Brazil,2,0,Australia,2006,June,18,false,"",Australia,Australia,Brazil,Brazil,Actual Time,2
+2006,673,Group stage,France,1,1,South Korea,2006,June,18,false,draw,"",Draw,"",Draw,Actual Time,2
+2006,674,Group stage,Togo,0,2,Switzerland,2006,June,19,false,"",Togo,Togo,Switzerland,Switzerland,Actual Time,2
+2006,675,Group stage,Saudi Arabia,0,4,Ukraine,2006,June,19,false,"",Saudi Arabia,Saudi Arabia,Ukraine,Ukraine,Actual Time,4
+2006,676,Group stage,Spain,3,1,Tunisia,2006,June,19,false,"",Tunisia,Tunisia,Spain,Spain,Actual Time,4
+2006,677,Group stage,Germany,3,0,Ecuador,2006,June,20,true,"",Ecuador,Ecuador,Germany,Germany,Actual Time,3
+2006,678,Group stage,Costa Rica,1,2,Poland,2006,June,20,false,"",Costa Rica,Costa Rica,Poland,Poland,Actual Time,3
+2006,679,Group stage,Sweden,2,2,England,2006,June,20,false,draw,"",Draw,"",Draw,Actual Time,4
+2006,680,Group stage,Paraguay,2,0,Trinidad and Tobago,2006,June,20,false,"",Trinidad and Tobago,Trinidad and Tobago,Paraguay,Paraguay,Actual Time,2
+2006,681,Group stage,Iran,1,1,Angola,2006,June,21,false,draw,"",Draw,"",Draw,Actual Time,2
+2006,682,Group stage,Portugal,2,1,Mexico,2006,June,21,false,"",Mexico,Mexico,Portugal,Portugal,Actual Time,3
+2006,683,Group stage,Netherlands,0,0,Argentina,2006,June,21,false,draw,"",Draw,"",Draw,Actual Time,0
+2006,684,Group stage,Ivory Coast,3,2,Serbia,2006,June,21,false,"",Serbia,Serbia,Ivory Coast,Ivory Coast,Actual Time,5
+2006,685,Group stage,Czech Republic,0,2,Italy,2006,June,22,false,"",Czech Republic,Czech Republic,Italy,Italy,Actual Time,2
+2006,686,Group stage,Ghana,2,1,United States,2006,June,22,false,"",United States,United States,Ghana,Ghana,Actual Time,3
+2006,687,Group stage,Japan,1,4,Brazil,2006,June,22,false,"",Japan,Japan,Brazil,Brazil,Actual Time,5
+2006,688,Group stage,Croatia,2,2,Australia,2006,June,22,false,draw,"",Draw,"",Draw,Actual Time,4
+2006,689,Group stage,Ukraine,1,0,Tunisia,2006,June,23,false,"",Tunisia,Tunisia,Ukraine,Ukraine,Actual Time,1
+2006,690,Group stage,Saudi Arabia,0,1,Spain,2006,June,23,false,"",Saudi Arabia,Saudi Arabia,Spain,Spain,Actual Time,1
+2006,691,Group stage,Togo,0,2,France,2006,June,23,false,"",Togo,Togo,France,France,Actual Time,2
+2006,692,Group stage,Switzerland,2,0,South Korea,2006,June,23,false,"",South Korea,South Korea,Switzerland,Switzerland,Actual Time,2
+2006,693,Round of 16,Germany,2,0,Sweden,2006,June,24,true,"",Sweden,Sweden,Germany,Germany,Actual Time,2
+2006,694,Round of 16,Argentina,2,1,Mexico,2006,June,24,false,"",Mexico,Mexico,Argentina,Argentina,Extra time,3
+2006,695,Round of 16,England,1,0,Ecuador,2006,June,25,false,"",Ecuador,Ecuador,England,England,Actual Time,1
+2006,696,Round of 16,Portugal,1,0,Netherlands,2006,June,25,false,"",Netherlands,Netherlands,Portugal,Portugal,Actual Time,1
+2006,697,Round of 16,Italy,1,0,Australia,2006,June,26,false,"",Australia,Australia,Italy,Italy,Actual Time,1
+2006,698,Round of 16,Switzerland,0,0,Ukraine,2006,June,26,false,,Switzerland,Draw,Ukraine,Draw,Ukraine win on penalties (0 - 3),0
+2006,699,Round of 16,Brazil,3,0,Ghana,2006,June,27,false,"",Ghana,Ghana,Brazil,Brazil,Actual Time,3
+2006,700,Round of 16,Spain,1,3,France,2006,June,27,false,"",Spain,Spain,France,France,Actual Time,4
+2006,701,Quarter-finals,Germany,1,1,Argentina,2006,June,30,true,,Argentina,Draw,Germany,Draw,Germany win on penalties (4 - 2),2
+2006,702,Quarter-finals,Italy,3,0,Ukraine,2006,June,30,false,"",Ukraine,Ukraine,Italy,Italy,Actual Time,3
+2006,703,Quarter-finals,England,0,0,Portugal,2006,July,1,false,,England,Draw,Portugal,Draw,Portugal win on penalties (1 - 3),0
+2006,704,Quarter-finals,Brazil,0,1,France,2006,July,1,false,"",Brazil,Brazil,France,France,Actual Time,1
+2006,705,Semi-finals,Germany,0,2,Italy,2006,July,4,true,"",Germany,Germany,Italy,Italy,Extra time,2
+2006,706,Semi-finals,Portugal,0,1,France,2006,July,5,false,"",Portugal,Portugal,France,France,Actual Time,1
+2006,707,Third place,Germany,3,1,Portugal,2006,July,8,true,"",Portugal,Portugal,Germany,Germany,Actual Time,4
+2006,708,Final,Italy,1,1,France,2006,July,9,false,,France,Draw,Italy,Draw,Italy win on penalties (5 - 3),2
+2010,709,Group stage,South Africa,1,1,Mexico,2010,June,11,true,draw,"",Draw,"",Draw,Actual Time,2
+2010,710,Group stage,Uruguay,0,0,France,2010,June,11,false,draw,"",Draw,"",Draw,Actual Time,0
+2010,711,Group stage,South Korea,2,0,Greece,2010,June,12,false,"",Greece,Greece,South Korea,South Korea,Actual Time,2
+2010,712,Group stage,Argentina,1,0,Nigeria,2010,June,12,false,"",Nigeria,Nigeria,Argentina,Argentina,Actual Time,1
+2010,713,Group stage,England,1,1,United States,2010,June,12,false,draw,"",Draw,"",Draw,Actual Time,2
+2010,714,Group stage,Algeria,0,1,Slovenia,2010,June,13,false,"",Algeria,Algeria,Slovenia,Slovenia,Actual Time,1
+2010,715,Group stage,Serbia,0,1,Ghana,2010,June,13,false,"",Serbia,Serbia,Ghana,Ghana,Actual Time,1
+2010,716,Group stage,Germany,4,0,Australia,2010,June,13,false,"",Australia,Australia,Germany,Germany,Actual Time,4
+2010,717,Group stage,Netherlands,2,0,Denmark,2010,June,14,false,"",Denmark,Denmark,Netherlands,Netherlands,Actual Time,2
+2010,718,Group stage,Japan,1,0,Cameroon,2010,June,14,false,"",Cameroon,Cameroon,Japan,Japan,Actual Time,1
+2010,719,Group stage,Italy,1,1,Paraguay,2010,June,14,false,draw,"",Draw,"",Draw,Actual Time,2
+2010,720,Group stage,New Zealand,1,1,Slovakia,2010,June,15,false,draw,"",Draw,"",Draw,Actual Time,2
+2010,721,Group stage,Ivory Coast,0,0,Portugal,2010,June,15,false,draw,"",Draw,"",Draw,Actual Time,0
+2010,722,Group stage,Brazil,2,1,North Korea,2010,June,15,false,"",North Korea,North Korea,Brazil,Brazil,Actual Time,3
+2010,723,Group stage,Honduras,0,1,Chile,2010,June,16,false,"",Honduras,Honduras,Chile,Chile,Actual Time,1
+2010,724,Group stage,Spain,0,1,Switzerland,2010,June,16,false,"",Spain,Spain,Switzerland,Switzerland,Actual Time,1
+2010,725,Group stage,South Africa,0,3,Uruguay,2010,June,16,true,"",South Africa,South Africa,Uruguay,Uruguay,Actual Time,3
+2010,726,Group stage,Argentina,4,1,South Korea,2010,June,17,false,"",South Korea,South Korea,Argentina,Argentina,Actual Time,5
+2010,727,Group stage,Greece,2,1,Nigeria,2010,June,17,false,"",Nigeria,Nigeria,Greece,Greece,Actual Time,3
+2010,728,Group stage,France,0,2,Mexico,2010,June,17,false,"",France,France,Mexico,Mexico,Actual Time,2
+2010,729,Group stage,Germany,0,1,Serbia,2010,June,18,false,"",Germany,Germany,Serbia,Serbia,Actual Time,1
+2010,730,Group stage,Slovenia,2,2,United States,2010,June,18,false,draw,"",Draw,"",Draw,Actual Time,4
+2010,731,Group stage,England,0,0,Algeria,2010,June,18,false,draw,"",Draw,"",Draw,Actual Time,0
+2010,732,Group stage,Netherlands,1,0,Japan,2010,June,19,false,"",Japan,Japan,Netherlands,Netherlands,Actual Time,1
+2010,733,Group stage,Ghana,1,1,Australia,2010,June,19,false,draw,"",Draw,"",Draw,Actual Time,2
+2010,734,Group stage,Cameroon,1,2,Denmark,2010,June,19,false,"",Cameroon,Cameroon,Denmark,Denmark,Actual Time,3
+2010,735,Group stage,Slovakia,0,2,Paraguay,2010,June,20,false,"",Slovakia,Slovakia,Paraguay,Paraguay,Actual Time,2
+2010,736,Group stage,Italy,1,1,New Zealand,2010,June,20,false,draw,"",Draw,"",Draw,Actual Time,2
+2010,737,Group stage,Brazil,3,1,Ivory Coast,2010,June,20,false,"",Ivory Coast,Ivory Coast,Brazil,Brazil,Actual Time,4
+2010,738,Group stage,Portugal,7,0,North Korea,2010,June,21,false,"",North Korea,North Korea,Portugal,Portugal,Actual Time,7
+2010,739,Group stage,Chile,1,0,Switzerland,2010,June,21,false,"",Switzerland,Switzerland,Chile,Chile,Actual Time,1
+2010,740,Group stage,Spain,2,0,Honduras,2010,June,21,false,"",Honduras,Honduras,Spain,Spain,Actual Time,2
+2010,741,Group stage,Mexico,0,1,Uruguay,2010,June,22,false,"",Mexico,Mexico,Uruguay,Uruguay,Actual Time,1
+2010,742,Group stage,South Africa,2,1,France,2010,June,22,true,"",France,France,South Africa,South Africa,Actual Time,3
+2010,743,Group stage,Nigeria,2,2,South Korea,2010,June,22,false,draw,"",Draw,"",Draw,Actual Time,4
+2010,744,Group stage,Greece,0,2,Argentina,2010,June,22,false,"",Greece,Greece,Argentina,Argentina,Actual Time,2
+2010,745,Group stage,Slovenia,0,1,England,2010,June,23,false,"",Slovenia,Slovenia,England,England,Actual Time,1
+2010,746,Group stage,United States,1,0,Algeria,2010,June,23,false,"",Algeria,Algeria,United States,United States,Actual Time,1
+2010,747,Group stage,Ghana,0,1,Germany,2010,June,23,false,"",Ghana,Ghana,Germany,Germany,Actual Time,1
+2010,748,Group stage,Australia,2,1,Serbia,2010,June,23,false,"",Serbia,Serbia,Australia,Australia,Actual Time,3
+2010,749,Group stage,Slovakia,3,2,Italy,2010,June,24,false,"",Italy,Italy,Slovakia,Slovakia,Actual Time,5
+2010,750,Group stage,Paraguay,0,0,New Zealand,2010,June,24,false,draw,"",Draw,"",Draw,Actual Time,0
+2010,751,Group stage,Denmark,1,3,Japan,2010,June,24,false,"",Denmark,Denmark,Japan,Japan,Actual Time,4
+2010,752,Group stage,Cameroon,1,2,Netherlands,2010,June,24,false,"",Cameroon,Cameroon,Netherlands,Netherlands,Actual Time,3
+2010,753,Group stage,Portugal,0,0,Brazil,2010,June,25,false,draw,"",Draw,"",Draw,Actual Time,0
+2010,754,Group stage,North Korea,0,3,Ivory Coast,2010,June,25,false,"",North Korea,North Korea,Ivory Coast,Ivory Coast,Actual Time,3
+2010,755,Group stage,Chile,1,2,Spain,2010,June,25,false,"",Chile,Chile,Spain,Spain,Actual Time,3
+2010,756,Group stage,Switzerland,0,0,Honduras,2010,June,25,false,draw,"",Draw,"",Draw,Actual Time,0
+2010,757,Round of 16,Uruguay,2,1,South Korea,2010,June,26,false,"",South Korea,South Korea,Uruguay,Uruguay,Actual Time,3
+2010,758,Round of 16,United States,1,2,Ghana,2010,June,26,false,"",United States,United States,Ghana,Ghana,Extra time,3
+2010,759,Round of 16,Germany,4,1,England,2010,June,27,false,"",England,England,Germany,Germany,Actual Time,5
+2010,760,Round of 16,Argentina,3,1,Mexico,2010,June,27,false,"",Mexico,Mexico,Argentina,Argentina,Actual Time,4
+2010,761,Round of 16,Netherlands,2,1,Slovakia,2010,June,28,false,"",Slovakia,Slovakia,Netherlands,Netherlands,Actual Time,3
+2010,762,Round of 16,Brazil,3,0,Chile,2010,June,28,false,"",Chile,Chile,Brazil,Brazil,Actual Time,3
+2010,763,Round of 16,Paraguay,0,0,Japan,2010,June,29,false,,Japan,Draw,Paraguay,Draw,Paraguay win on penalties (5 - 3),0
+2010,764,Round of 16,Spain,1,0,Portugal,2010,June,29,false,"",Portugal,Portugal,Spain,Spain,Actual Time,1
+2010,765,Quarter-finals,Netherlands,2,1,Brazil,2010,July,2,false,"",Brazil,Brazil,Netherlands,Netherlands,Actual Time,3
+2010,766,Quarter-finals,Uruguay,1,1,Ghana,2010,July,2,false,,Ghana,Draw,Uruguay,Draw,Uruguay win on penalties (4 - 2),2
+2010,767,Quarter-finals,Argentina,0,4,Germany,2010,July,3,false,"",Argentina,Argentina,Germany,Germany,Actual Time,4
+2010,768,Quarter-finals,Paraguay,0,1,Spain,2010,July,3,false,"",Paraguay,Paraguay,Spain,Spain,Actual Time,1
+2010,769,Semi-finals,Uruguay,2,3,Netherlands,2010,July,6,false,"",Uruguay,Uruguay,Netherlands,Netherlands,Actual Time,5
+2010,770,Semi-finals,Germany,0,1,Spain,2010,July,7,false,"",Germany,Germany,Spain,Spain,Actual Time,1
+2010,771,Third place,Uruguay,2,3,Germany,2010,July,10,false,"",Uruguay,Uruguay,Germany,Germany,Actual Time,5
+2010,772,Final,Spain,1,0,Netherlands,2010,July,11,false,"",Netherlands,Netherlands,Spain,Spain,Extra time,1
+2014,773,Group stage,Brazil,3,1,Croatia,2014,June,12,true,"",Croatia,Croatia,Brazil,Brazil,Actual Time,4
+2014,774,Group stage,Mexico,1,0,Cameroon,2014,June,13,false,"",Cameroon,Cameroon,Mexico,Mexico,Actual Time,1
+2014,775,Group stage,Spain,1,5,Netherlands,2014,June,13,false,"",Spain,Spain,Netherlands,Netherlands,Actual Time,6
+2014,776,Group stage,Chile,3,1,Australia,2014,June,13,false,"",Australia,Australia,Chile,Chile,Actual Time,4
+2014,777,Group stage,Colombia,3,0,Greece,2014,June,14,false,"",Greece,Greece,Colombia,Colombia,Actual Time,3
+2014,778,Group stage,Uruguay,1,3,Costa Rica,2014,June,14,false,"",Uruguay,Uruguay,Costa Rica,Costa Rica,Actual Time,4
+2014,779,Group stage,England,1,2,Italy,2014,June,14,false,"",England,England,Italy,Italy,Actual Time,3
+2014,780,Group stage,Ivory Coast,2,1,Japan,2014,June,14,false,"",Japan,Japan,Ivory Coast,Ivory Coast,Actual Time,3
+2014,781,Group stage,Switzerland,2,1,Ecuador,2014,June,15,false,"",Ecuador,Ecuador,Switzerland,Switzerland,Actual Time,3
+2014,782,Group stage,France,3,0,Honduras,2014,June,15,false,"",Honduras,Honduras,France,France,Actual Time,3
+2014,783,Group stage,Argentina,2,1,Bosnia and Herzegovina,2014,June,15,false,"",Bosnia and Herzegovina,Bosnia and Herzegovina,Argentina,Argentina,Actual Time,3
+2014,784,Group stage,Germany,4,0,Portugal,2014,June,16,false,"",Portugal,Portugal,Germany,Germany,Actual Time,4
+2014,785,Group stage,Iran,0,0,Nigeria,2014,June,16,false,draw,"",Draw,"",Draw,Actual Time,0
+2014,786,Group stage,Ghana,1,2,United States,2014,June,16,false,"",Ghana,Ghana,United States,United States,Actual Time,3
+2014,787,Group stage,Belgium,2,1,Algeria,2014,June,17,false,"",Algeria,Algeria,Belgium,Belgium,Actual Time,3
+2014,788,Group stage,Brazil,0,0,Mexico,2014,June,17,true,draw,"",Draw,"",Draw,Actual Time,0
+2014,789,Group stage,Russia,1,1,South Korea,2014,June,17,false,draw,"",Draw,"",Draw,Actual Time,2
+2014,790,Group stage,Australia,2,3,Netherlands,2014,June,18,false,"",Australia,Australia,Netherlands,Netherlands,Actual Time,5
+2014,791,Group stage,Spain,0,2,Chile,2014,June,18,false,"",Spain,Spain,Chile,Chile,Actual Time,2
+2014,792,Group stage,Cameroon,0,4,Croatia,2014,June,18,false,"",Cameroon,Cameroon,Croatia,Croatia,Actual Time,4
+2014,793,Group stage,Colombia,2,1,Ivory Coast,2014,June,19,false,"",Ivory Coast,Ivory Coast,Colombia,Colombia,Actual Time,3
+2014,794,Group stage,Uruguay,2,1,England,2014,June,19,false,"",England,England,Uruguay,Uruguay,Actual Time,3
+2014,795,Group stage,Japan,0,0,Greece,2014,June,19,false,draw,"",Draw,"",Draw,Actual Time,0
+2014,796,Group stage,Italy,0,1,Costa Rica,2014,June,20,false,"",Italy,Italy,Costa Rica,Costa Rica,Actual Time,1
+2014,797,Group stage,Switzerland,2,5,France,2014,June,20,false,"",Switzerland,Switzerland,France,France,Actual Time,7
+2014,798,Group stage,Honduras,1,2,Ecuador,2014,June,20,false,"",Honduras,Honduras,Ecuador,Ecuador,Actual Time,3
+2014,799,Group stage,Argentina,1,0,Iran,2014,June,21,false,"",Iran,Iran,Argentina,Argentina,Actual Time,1
+2014,800,Group stage,Germany,2,2,Ghana,2014,June,21,false,draw,"",Draw,"",Draw,Actual Time,4
+2014,801,Group stage,Nigeria,1,0,Bosnia and Herzegovina,2014,June,21,false,"",Bosnia and Herzegovina,Bosnia and Herzegovina,Nigeria,Nigeria,Actual Time,1
+2014,802,Group stage,Belgium,1,0,Russia,2014,June,22,false,"",Russia,Russia,Belgium,Belgium,Actual Time,1
+2014,803,Group stage,South Korea,2,4,Algeria,2014,June,22,false,"",South Korea,South Korea,Algeria,Algeria,Actual Time,6
+2014,804,Group stage,United States,2,2,Portugal,2014,June,22,false,draw,"",Draw,"",Draw,Actual Time,4
+2014,805,Group stage,Australia,0,3,Spain,2014,June,23,false,"",Australia,Australia,Spain,Spain,Actual Time,3
+2014,806,Group stage,Netherlands,2,0,Chile,2014,June,23,false,"",Chile,Chile,Netherlands,Netherlands,Actual Time,2
+2014,807,Group stage,Brazil,4,1,Cameroon,2014,June,23,true,"",Cameroon,Cameroon,Brazil,Brazil,Actual Time,5
+2014,808,Group stage,Croatia,1,3,Mexico,2014,June,23,false,"",Croatia,Croatia,Mexico,Mexico,Actual Time,4
+2014,809,Group stage,Italy,0,1,Uruguay,2014,June,24,false,"",Italy,Italy,Uruguay,Uruguay,Actual Time,1
+2014,810,Group stage,Costa Rica,0,0,England,2014,June,24,false,draw,"",Draw,"",Draw,Actual Time,0
+2014,811,Group stage,Japan,1,4,Colombia,2014,June,24,false,"",Japan,Japan,Colombia,Colombia,Actual Time,5
+2014,812,Group stage,Greece,2,1,Ivory Coast,2014,June,24,false,"",Ivory Coast,Ivory Coast,Greece,Greece,Actual Time,3
+2014,813,Group stage,Nigeria,2,3,Argentina,2014,June,25,false,"",Nigeria,Nigeria,Argentina,Argentina,Actual Time,5
+2014,814,Group stage,Bosnia and Herzegovina,3,1,Iran,2014,June,25,false,"",Iran,Iran,Bosnia and Herzegovina,Bosnia and Herzegovina,Actual Time,4
+2014,815,Group stage,Honduras,0,3,Switzerland,2014,June,25,false,"",Honduras,Honduras,Switzerland,Switzerland,Actual Time,3
+2014,816,Group stage,Ecuador,0,0,France,2014,June,25,false,draw,"",Draw,"",Draw,Actual Time,0
+2014,817,Group stage,United States,0,1,Germany,2014,June,26,false,"",United States,United States,Germany,Germany,Actual Time,1
+2014,818,Group stage,Portugal,2,1,Ghana,2014,June,26,false,"",Ghana,Ghana,Portugal,Portugal,Actual Time,3
+2014,819,Group stage,South Korea,0,1,Belgium,2014,June,26,false,"",South Korea,South Korea,Belgium,Belgium,Actual Time,1
+2014,820,Group stage,Algeria,1,1,Russia,2014,June,26,false,draw,"",Draw,"",Draw,Actual Time,2
+2014,821,Round of 16,Brazil,1,1,Chile,2014,June,28,true,,Chile,Draw,Brazil,Draw,Brazil win on penalties (3 - 2),2
+2014,822,Round of 16,Colombia,2,0,Uruguay,2014,June,28,false,"",Uruguay,Uruguay,Colombia,Colombia,Actual Time,2
+2014,823,Round of 16,Netherlands,2,1,Mexico,2014,June,29,false,"",Mexico,Mexico,Netherlands,Netherlands,Actual Time,3
+2014,824,Round of 16,Costa Rica,1,1,Greece,2014,June,29,false,,Greece,Draw,Costa Rica,Draw,Costa Rica win on penalties (5 - 3),2
+2014,825,Round of 16,France,2,0,Nigeria,2014,June,30,false,"",Nigeria,Nigeria,France,France,Actual Time,2
+2014,826,Round of 16,Germany,2,1,Algeria,2014,June,30,false,"",Algeria,Algeria,Germany,Germany,Extra time,3
+2014,827,Round of 16,Argentina,1,0,Switzerland,2014,July,1,false,"",Switzerland,Switzerland,Argentina,Argentina,Extra time,1
+2014,828,Round of 16,Belgium,2,1,United States,2014,July,1,false,"",United States,United States,Belgium,Belgium,Extra time,3
+2014,829,Quarter-finals,France,0,1,Germany,2014,July,4,false,"",France,France,Germany,Germany,Actual Time,1
+2014,830,Quarter-finals,Brazil,2,1,Colombia,2014,July,4,true,"",Colombia,Colombia,Brazil,Brazil,Actual Time,3
+2014,831,Quarter-finals,Argentina,1,0,Belgium,2014,July,5,false,"",Belgium,Belgium,Argentina,Argentina,Actual Time,1
+2014,832,Quarter-finals,Netherlands,0,0,Costa Rica,2014,July,5,false,,Costa Rica,Draw,Netherlands,Draw,Netherlands win on penalties (4 - 3),0
+2014,833,Semi-finals,Brazil,1,7,Germany,2014,July,8,true,"",Brazil,Brazil,Germany,Germany,Actual Time,8
+2014,834,Semi-finals,Netherlands,0,0,Argentina,2014,July,9,false,,Netherlands,Draw,Argentina,Draw,Argentina win on penalties (2 - 4),0
+2014,835,Third place,Brazil,0,3,Netherlands,2014,July,12,true,"",Brazil,Brazil,Netherlands,Netherlands,Actual Time,3
+2014,836,Final,Germany,1,0,Argentina,2014,July,13,false,"",Argentina,Argentina,Germany,Germany,Extra time,1
+2018,837,Group stage,Russia,5,0,Saudi Arabia,2018,June,14,true,"",Saudi Arabia,Saudi Arabia,Russia,Russia,Actual Time,5
+2018,838,Group stage,Egypt,0,1,Uruguay,2018,June,15,false,"",Egypt,Egypt,Uruguay,Uruguay,Actual Time,1
+2018,839,Group stage,Morocco,0,1,Iran,2018,June,15,false,"",Morocco,Morocco,Iran,Iran,Actual Time,1
+2018,840,Group stage,Portugal,3,3,Spain,2018,June,15,false,draw,"",Draw,"",Draw,Actual Time,6
+2018,841,Group stage,France,2,1,Australia,2018,June,16,false,"",Australia,Australia,France,France,Actual Time,3
+2018,842,Group stage,Argentina,1,1,Iceland,2018,June,16,false,draw,"",Draw,"",Draw,Actual Time,2
+2018,843,Group stage,Peru,0,1,Denmark,2018,June,16,false,"",Peru,Peru,Denmark,Denmark,Actual Time,1
+2018,844,Group stage,Croatia,2,0,Nigeria,2018,June,16,false,"",Nigeria,Nigeria,Croatia,Croatia,Actual Time,2
+2018,845,Group stage,Costa Rica,0,1,Serbia,2018,June,17,false,"",Costa Rica,Costa Rica,Serbia,Serbia,Actual Time,1
+2018,846,Group stage,Germany,0,1,Mexico,2018,June,17,false,"",Germany,Germany,Mexico,Mexico,Actual Time,1
+2018,847,Group stage,Brazil,1,1,Switzerland,2018,June,17,false,draw,"",Draw,"",Draw,Actual Time,2
+2018,848,Group stage,Sweden,1,0,South Korea,2018,June,18,false,"",South Korea,South Korea,Sweden,Sweden,Actual Time,1
+2018,849,Group stage,Belgium,3,0,Panama,2018,June,18,false,"",Panama,Panama,Belgium,Belgium,Actual Time,3
+2018,850,Group stage,Tunisia,1,2,England,2018,June,18,false,"",Tunisia,Tunisia,England,England,Actual Time,3
+2018,851,Group stage,Colombia,1,2,Japan,2018,June,19,false,"",Colombia,Colombia,Japan,Japan,Actual Time,3
+2018,852,Group stage,Poland,1,2,Senegal,2018,June,19,false,"",Poland,Poland,Senegal,Senegal,Actual Time,3
+2018,853,Group stage,Russia,3,1,Egypt,2018,June,19,true,"",Egypt,Egypt,Russia,Russia,Actual Time,4
+2018,854,Group stage,Portugal,1,0,Morocco,2018,June,20,false,"",Morocco,Morocco,Portugal,Portugal,Actual Time,1
+2018,855,Group stage,Uruguay,1,0,Saudi Arabia,2018,June,20,false,"",Saudi Arabia,Saudi Arabia,Uruguay,Uruguay,Actual Time,1
+2018,856,Group stage,Iran,0,1,Spain,2018,June,20,false,"",Iran,Iran,Spain,Spain,Actual Time,1
+2018,857,Group stage,Denmark,1,1,Australia,2018,June,21,false,draw,"",Draw,"",Draw,Actual Time,2
+2018,858,Group stage,France,1,0,Peru,2018,June,21,false,"",Peru,Peru,France,France,Actual Time,1
+2018,859,Group stage,Argentina,0,3,Croatia,2018,June,21,false,"",Argentina,Argentina,Croatia,Croatia,Actual Time,3
+2018,860,Group stage,Brazil,2,0,Costa Rica,2018,June,22,false,"",Costa Rica,Costa Rica,Brazil,Brazil,Actual Time,2
+2018,861,Group stage,Nigeria,2,0,Iceland,2018,June,22,false,"",Iceland,Iceland,Nigeria,Nigeria,Actual Time,2
+2018,862,Group stage,Serbia,1,2,Switzerland,2018,June,22,false,"",Serbia,Serbia,Switzerland,Switzerland,Actual Time,3
+2018,863,Group stage,Belgium,5,2,Tunisia,2018,June,23,false,"",Tunisia,Tunisia,Belgium,Belgium,Actual Time,7
+2018,864,Group stage,South Korea,1,2,Mexico,2018,June,23,false,"",South Korea,South Korea,Mexico,Mexico,Actual Time,3
+2018,865,Group stage,Germany,2,1,Sweden,2018,June,23,false,"",Sweden,Sweden,Germany,Germany,Actual Time,3
+2018,866,Group stage,England,6,1,Panama,2018,June,24,false,"",Panama,Panama,England,England,Actual Time,7
+2018,867,Group stage,Japan,2,2,Senegal,2018,June,24,false,draw,"",Draw,"",Draw,Actual Time,4
+2018,868,Group stage,Poland,0,3,Colombia,2018,June,24,false,"",Poland,Poland,Colombia,Colombia,Actual Time,3
+2018,869,Group stage,Russia,0,3,Uruguay,2018,June,25,true,"",Russia,Russia,Uruguay,Uruguay,Actual Time,3
+2018,870,Group stage,Saudi Arabia,2,1,Egypt,2018,June,25,false,"",Egypt,Egypt,Saudi Arabia,Saudi Arabia,Actual Time,3
+2018,871,Group stage,Spain,2,2,Morocco,2018,June,25,false,draw,"",Draw,"",Draw,Actual Time,4
+2018,872,Group stage,Iran,1,1,Portugal,2018,June,25,false,draw,"",Draw,"",Draw,Actual Time,2
+2018,873,Group stage,Australia,0,2,Peru,2018,June,26,false,"",Australia,Australia,Peru,Peru,Actual Time,2
+2018,874,Group stage,Denmark,0,0,France,2018,June,26,false,draw,"",Draw,"",Draw,Actual Time,0
+2018,875,Group stage,Nigeria,1,2,Argentina,2018,June,26,false,"",Nigeria,Nigeria,Argentina,Argentina,Actual Time,3
+2018,876,Group stage,Iceland,1,2,Croatia,2018,June,26,false,"",Iceland,Iceland,Croatia,Croatia,Actual Time,3
+2018,877,Group stage,South Korea,2,0,Germany,2018,June,27,false,"",Germany,Germany,South Korea,South Korea,Actual Time,2
+2018,878,Group stage,Mexico,0,3,Sweden,2018,June,27,false,"",Mexico,Mexico,Sweden,Sweden,Actual Time,3
+2018,879,Group stage,Serbia,0,2,Brazil,2018,June,27,false,"",Serbia,Serbia,Brazil,Brazil,Actual Time,2
+2018,880,Group stage,Switzerland,2,2,Costa Rica,2018,June,27,false,draw,"",Draw,"",Draw,Actual Time,4
+2018,881,Group stage,Japan,0,1,Poland,2018,June,28,false,"",Japan,Japan,Poland,Poland,Actual Time,1
+2018,882,Group stage,Senegal,0,1,Colombia,2018,June,28,false,"",Senegal,Senegal,Colombia,Colombia,Actual Time,1
+2018,883,Group stage,Panama,1,2,Tunisia,2018,June,28,false,"",Panama,Panama,Tunisia,Tunisia,Actual Time,3
+2018,884,Group stage,England,0,1,Belgium,2018,June,28,false,"",England,England,Belgium,Belgium,Actual Time,1
+2018,885,Round of 16,France,4,3,Argentina,2018,June,30,false,"",Argentina,Argentina,France,France,Actual Time,7
+2018,886,Round of 16,Uruguay,2,1,Portugal,2018,June,30,false,"",Portugal,Portugal,Uruguay,Uruguay,Actual Time,3
+2018,887,Round of 16,Russia,1,1,Spain,2018,July,1,true,,Spain,Draw,Russia,Draw,Russia win on penalties (4 - 3),2
+2018,888,Round of 16,Croatia,1,1,Denmark,2018,July,1,false,,Denmark,Draw,Croatia,Draw,Croatia win on penalties (3 - 2),2
+2018,889,Round of 16,Brazil,2,0,Mexico,2018,July,2,false,"",Mexico,Mexico,Brazil,Brazil,Actual Time,2
+2018,890,Round of 16,Belgium,3,2,Japan,2018,July,2,false,"",Japan,Japan,Belgium,Belgium,Actual Time,5
+2018,891,Round of 16,Sweden,1,0,Switzerland,2018,July,3,false,"",Switzerland,Switzerland,Sweden,Sweden,Actual Time,1
+2018,892,Round of 16,Colombia,1,1,England,2018,July,3,false,,Colombia,Draw,England,Draw,England win on penalties (3 - 4),2
+2018,893,Quarter-finals,Uruguay,0,2,France,2018,July,6,false,"",Uruguay,Uruguay,France,France,Actual Time,2
+2018,894,Quarter-finals,Brazil,1,2,Belgium,2018,July,6,false,"",Brazil,Brazil,Belgium,Belgium,Actual Time,3
+2018,895,Quarter-finals,Sweden,0,2,England,2018,July,7,false,"",Sweden,Sweden,England,England,Actual Time,2
+2018,896,Quarter-finals,Russia,2,2,Croatia,2018,July,7,true,,Russia,Draw,Croatia,Draw,Croatia win on penalties (3 - 4),4
+2018,897,Semi-finals,France,1,0,Belgium,2018,July,10,false,"",Belgium,Belgium,France,France,Actual Time,1
+2018,898,Semi-finals,Croatia,2,1,England,2018,July,11,false,"",England,England,Croatia,Croatia,Extra time,3
+2018,899,Third place,Belgium,2,0,England,2018,July,14,false,"",England,England,Belgium,Belgium,Actual Time,2
+2018,900,Final,France,4,2,Croatia,2018,July,15,false,"",Croatia,Croatia,France,France,Actual Time,6
+2022,901,Group stage,Qatar,0,2,Ecuador,2022,November,20,true,"",Qatar,Qatar,Ecuador,Ecuador,Actual Time,2
+2022,902,Group stage,Senegal,0,2,Netherlands,2022,November,21,false,"",Senegal,Senegal,Netherlands,Netherlands,Actual Time,2
+2022,903,Group stage,England,6,2,Iran,2022,November,21,false,"",Iran,Iran,England,England,Actual Time,8
+2022,904,Group stage,United States,1,1,Wales,2022,November,21,false,draw,"",Draw,"",Draw,Actual Time,2
+2022,905,Group stage,France,4,1,Australia,2022,November,22,false,"",Australia,Australia,France,France,Actual Time,5
+2022,906,Group stage,Denmark,0,0,Tunisia,2022,November,22,false,draw,"",Draw,"",Draw,Actual Time,0
+2022,907,Group stage,Mexico,0,0,Poland,2022,November,22,false,draw,"",Draw,"",Draw,Actual Time,0
+2022,908,Group stage,Argentina,1,2,Saudi Arabia,2022,November,22,false,"",Argentina,Argentina,Saudi Arabia,Saudi Arabia,Actual Time,3
+2022,909,Group stage,Belgium,1,0,Canada,2022,November,23,false,"",Canada,Canada,Belgium,Belgium,Actual Time,1
+2022,910,Group stage,Spain,7,0,Costa Rica,2022,November,23,false,"",Costa Rica,Costa Rica,Spain,Spain,Actual Time,7
+2022,911,Group stage,Germany,1,2,Japan,2022,November,23,false,"",Germany,Germany,Japan,Japan,Actual Time,3
+2022,912,Group stage,Morocco,0,0,Croatia,2022,November,23,false,draw,"",Draw,"",Draw,Actual Time,0
+2022,913,Group stage,Switzerland,1,0,Cameroon,2022,November,24,false,"",Cameroon,Cameroon,Switzerland,Switzerland,Actual Time,1
+2022,914,Group stage,Uruguay,0,0,South Korea,2022,November,24,false,draw,"",Draw,"",Draw,Actual Time,0
+2022,915,Group stage,Portugal,3,2,Ghana,2022,November,24,false,"",Ghana,Ghana,Portugal,Portugal,Actual Time,5
+2022,916,Group stage,Brazil,2,0,Serbia,2022,November,24,false,"",Serbia,Serbia,Brazil,Brazil,Actual Time,2
+2022,917,Group stage,Iran,2,0,Wales,2022,November,25,false,"",Wales,Wales,Iran,Iran,Actual Time,2
+2022,918,Group stage,Qatar,1,3,Senegal,2022,November,25,true,"",Qatar,Qatar,Senegal,Senegal,Actual Time,4
+2022,919,Group stage,Netherlands,1,1,Ecuador,2022,November,25,false,draw,"",Draw,"",Draw,Actual Time,2
+2022,920,Group stage,England,0,0,United States,2022,November,25,false,draw,"",Draw,"",Draw,Actual Time,0
+2022,921,Group stage,Tunisia,0,1,Australia,2022,November,26,false,"",Tunisia,Tunisia,Australia,Australia,Actual Time,1
+2022,922,Group stage,Poland,2,0,Saudi Arabia,2022,November,26,false,"",Saudi Arabia,Saudi Arabia,Poland,Poland,Actual Time,2
+2022,923,Group stage,France,2,1,Denmark,2022,November,26,false,"",Denmark,Denmark,France,France,Actual Time,3
+2022,924,Group stage,Argentina,2,0,Mexico,2022,November,26,false,"",Mexico,Mexico,Argentina,Argentina,Actual Time,2
+2022,925,Group stage,Japan,0,1,Costa Rica,2022,November,27,false,"",Japan,Japan,Costa Rica,Costa Rica,Actual Time,1
+2022,926,Group stage,Belgium,0,2,Morocco,2022,November,27,false,"",Belgium,Belgium,Morocco,Morocco,Actual Time,2
+2022,927,Group stage,Croatia,4,1,Canada,2022,November,27,false,"",Canada,Canada,Croatia,Croatia,Actual Time,5
+2022,928,Group stage,Spain,1,1,Germany,2022,November,27,false,draw,"",Draw,"",Draw,Actual Time,2
+2022,929,Group stage,Serbia,3,3,Cameroon,2022,November,28,false,draw,"",Draw,"",Draw,Actual Time,6
+2022,930,Group stage,South Korea,2,3,Ghana,2022,November,28,false,"",South Korea,South Korea,Ghana,Ghana,Actual Time,5
+2022,931,Group stage,Brazil,1,0,Switzerland,2022,November,28,false,"",Switzerland,Switzerland,Brazil,Brazil,Actual Time,1
+2022,932,Group stage,Portugal,2,0,Uruguay,2022,November,28,false,"",Uruguay,Uruguay,Portugal,Portugal,Actual Time,2
+2022,933,Group stage,England,3,0,Wales,2022,November,29,false,"",Wales,Wales,England,England,Actual Time,3
+2022,934,Group stage,Iran,0,1,United States,2022,November,29,false,"",Iran,Iran,United States,United States,Actual Time,1
+2022,935,Group stage,Ecuador,1,2,Senegal,2022,November,29,false,"",Ecuador,Ecuador,Senegal,Senegal,Actual Time,3
+2022,936,Group stage,Qatar,0,2,Netherlands,2022,November,29,true,"",Qatar,Qatar,Netherlands,Netherlands,Actual Time,2
+2022,937,Group stage,Denmark,0,1,Australia,2022,November,30,false,"",Denmark,Denmark,Australia,Australia,Actual Time,1
+2022,938,Group stage,Tunisia,1,0,France,2022,November,30,false,"",France,France,Tunisia,Tunisia,Actual Time,1
+2022,939,Group stage,Poland,0,2,Argentina,2022,November,30,false,"",Poland,Poland,Argentina,Argentina,Actual Time,2
+2022,940,Group stage,Saudi Arabia,1,2,Mexico,2022,November,30,false,"",Saudi Arabia,Saudi Arabia,Mexico,Mexico,Actual Time,3
+2022,941,Group stage,Croatia,0,0,Belgium,2022,December,1,false,draw,"",Draw,"",Draw,Actual Time,0
+2022,942,Group stage,Canada,1,2,Morocco,2022,December,1,false,"",Canada,Canada,Morocco,Morocco,Actual Time,3
+2022,943,Group stage,Japan,2,1,Spain,2022,December,1,false,"",Spain,Spain,Japan,Japan,Actual Time,3
+2022,944,Group stage,Costa Rica,2,4,Germany,2022,December,1,false,"",Costa Rica,Costa Rica,Germany,Germany,Actual Time,6
+2022,945,Group stage,Ghana,0,2,Uruguay,2022,December,2,false,"",Ghana,Ghana,Uruguay,Uruguay,Actual Time,2
+2022,946,Group stage,South Korea,2,1,Portugal,2022,December,2,false,"",Portugal,Portugal,South Korea,South Korea,Actual Time,3
+2022,947,Group stage,Serbia,2,3,Switzerland,2022,December,2,false,"",Serbia,Serbia,Switzerland,Switzerland,Actual Time,5
+2022,948,Group stage,Brazil,0,1,Cameroon,2022,December,2,false,"",Brazil,Brazil,Cameroon,Cameroon,Actual Time,1
+2022,949,Round of 16,Netherlands,3,1,United States,2022,December,3,false,"",United States,United States,Netherlands,Netherlands,Actual Time,4
+2022,950,Round of 16,Argentina,2,1,Australia,2022,December,3,false,"",Australia,Australia,Argentina,Argentina,Actual Time,3
+2022,951,Round of 16,England,3,0,Senegal,2022,December,4,false,"",Senegal,Senegal,England,England,Actual Time,3
+2022,952,Round of 16,France,3,1,Poland,2022,December,4,false,"",Poland,Poland,France,France,Actual Time,4
+2022,953,Round of 16,Japan,1,1,Croatia,2022,December,5,false,,Japan,Draw,Croatia,Draw,(Croatia won 3–1 on penalties),2
+2022,954,Round of 16,Brazil,4,1,South Korea,2022,December,5,false,"",South Korea,South Korea,Brazil,Brazil,Actual Time,5
+2022,955,Round of 16,Morocco,0,0,Spain,2022,December,6,false,,Spain,Draw,Morocco,Draw,(Morocco won 3–0 on penalties),0
+2022,956,Round of 16,Portugal,6,1,Switzerland,2022,December,6,false,"",Switzerland,Switzerland,Portugal,Portugal,Actual Time,7
+2022,957,Quarter-finals,Netherlands,2,2,Argentina,2022,December,9,false,,Netherlands,Draw,Argentina,Draw,(Argentina won 4–3 on penalties),4
+2022,958,Quarter-finals,Croatia,1,1,Brazil,2022,December,9,false,,Brazil,Draw,Croatia,Draw,(Croatia won 4–2 on penalties),2
+2022,959,Quarter-finals,England,1,2,France,2022,December,10,false,"",England,England,France,France,Actual Time,3
+2022,960,Quarter-finals,Morocco,1,0,Portugal,2022,December,10,false,"",Portugal,Portugal,Morocco,Morocco,Actual Time,1
+2022,961,Semi-finals,Argentina,3,0,Croatia,2022,December,13,false,"",Croatia,Croatia,Argentina,Argentina,Actual Time,3
+2022,962,Semi-finals,France,2,0,Morocco,2022,December,14,false,"",Morocco,Morocco,France,France,Actual Time,2
+2022,963,Third place,Croatia,2,1,Morocco,2022,December,17,false,"",Morocco,Morocco,Croatia,Croatia,Actual Time,3
+2022,964,Final,Argentina,3,3,France,2022,December,18,false,,France,Draw,Argentina,Draw,Argentina win on penalties (4 - 3),6
